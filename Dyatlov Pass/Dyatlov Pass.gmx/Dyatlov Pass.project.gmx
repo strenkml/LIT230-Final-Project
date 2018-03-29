@@ -12,10 +12,8 @@
     <sprite>sprites\spriteCharR</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\bgNightSky</background>
-    <background>background\bgMountains</background>
-    <background>background\bgTrees</background>
-    <background>background\bgGround</background>
+    <background>background\ch2_background</background>
+    <background>background\moon</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
