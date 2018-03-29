@@ -8,16 +8,23 @@
     <sound>sound\soundTitle</sound>
   </sounds>
   <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bgNightSky</background>
+    <background>background\bgMountains</background>
+    <background>background\bgTrees</background>
+    <background>background\bgGround</background>
+  </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\fontTitle</font>
   </fonts>
   <objects name="objects">
     <object>objects\objectTitle</object>
+    <object>objects\objectStartGame</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\roomTitle</room>
+    <room>rooms\roomWoods</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
