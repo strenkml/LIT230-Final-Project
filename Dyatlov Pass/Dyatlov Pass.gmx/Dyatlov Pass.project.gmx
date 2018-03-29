@@ -20,11 +20,17 @@
   </fonts>
   <objects name="objects">
     <object>objects\objectTitle</object>
-    <object>objects\objectStartGame</object>
+    <object>objects\objectTitleDetect</object>
+    <object>objects\objectEndGame</object>
+    <object>objects\objectEndDetect</object>
+    <object>objects\objectChpt1Detect</object>
+    <object>objects\objectFade</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\roomTitle</room>
     <room>rooms\roomWoods</room>
+    <room>rooms\roomEnd</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
