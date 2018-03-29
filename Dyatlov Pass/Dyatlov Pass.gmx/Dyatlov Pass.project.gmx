@@ -7,7 +7,10 @@
   <sounds name="sound">
     <sound>sound\soundTitle</sound>
   </sounds>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spriteCharL</sprite>
+    <sprite>sprites\spriteCharR</sprite>
+  </sprites>
   <backgrounds name="background">
     <background>background\bgNightSky</background>
     <background>background\bgMountains</background>
@@ -21,12 +24,12 @@
   <objects name="objects">
     <object>objects\objectTitle</object>
     <object>objects\objectTitleDetect</object>
+    <object>objects\objectChpt1Detect</object>
+    <object>objects\objectChar</object>
     <object>objects\objectEndGame</object>
     <object>objects\objectEndDetect</object>
-    <object>objects\objectChpt1Detect</object>
     <object>objects\objectFade</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\roomTitle</room>
     <room>rooms\roomWoods</room>
