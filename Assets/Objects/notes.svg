@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1185"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="notes.svg">
+  <defs
+     id="defs1179">
+    <filter
+       inkscape:label="Wax Print"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Wax print on tissue texture"
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1778">
+      <feGaussianBlur
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="2"
+         id="feGaussianBlur1762" />
+      <feTurbulence
+         result="result0"
+         numOctaves="5"
+         baseFrequency="0.05"
+         type="fractalNoise"
+         id="feTurbulence1764" />
+      <feDisplacementMap
+         result="result2"
+         scale="10"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1"
+         in2="result0"
+         id="feDisplacementMap1766" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
+         result="result3"
+         id="feColorMatrix1768" />
+      <feBlend
+         mode="multiply"
+         in="result2"
+         result="result5"
+         in2="result3"
+         id="feBlend1770" />
+      <feGaussianBlur
+         result="result4"
+         in="result3"
+         stdDeviation="5"
+         id="feGaussianBlur1772" />
+      <feComposite
+         k1="0.5"
+         k3="1.5"
+         k2="0.15"
+         in="result4"
+         in2="result5"
+         operator="arithmetic"
+         result="result6"
+         id="feComposite1774" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result4"
+         id="feComposite1776" />
+    </filter>
+    <filter
+       y="-0.15"
+       height="1.3"
+       x="-0.15"
+       width="1.3"
+       inkscape:menu-tooltip="Aquarelle paper effect which can be used for pictures as for objects"
+       inkscape:menu="Textures"
+       inkscape:label="Rough Paper"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1830">
+      <feTurbulence
+         type="fractalNoise"
+         baseFrequency="0.04"
+         numOctaves="5"
+         seed="0"
+         result="result4"
+         id="feTurbulence1816" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="result4"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         scale="10"
+         result="result3"
+         id="feDisplacementMap1818" />
+      <feDiffuseLighting
+         lighting-color="rgb(233,230,215)"
+         diffuseConstant="1"
+         surfaceScale="2"
+         result="result1"
+         in="result4"
+         id="feDiffuseLighting1822">
+        <feDistantLight
+           azimuth="235"
+           elevation="40"
+           id="feDistantLight1820" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="in"
+         in="result3"
+         in2="result1"
+         result="result2"
+         id="feComposite1824" />
+      <feComposite
+         in2="result1"
+         result="result5"
+         operator="arithmetic"
+         k1="1.7"
+         id="feComposite1826" />
+      <feBlend
+         in="result5"
+         in2="result3"
+         mode="normal"
+         id="feBlend1828" />
+    </filter>
+    <filter
+       inkscape:label="Wax Print"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Wax print on tissue texture"
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1858">
+      <feGaussianBlur
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="2"
+         id="feGaussianBlur1842" />
+      <feTurbulence
+         result="result0"
+         numOctaves="5"
+         baseFrequency="0.05"
+         type="fractalNoise"
+         id="feTurbulence1844" />
+      <feDisplacementMap
+         result="result2"
+         scale="10"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1"
+         in2="result0"
+         id="feDisplacementMap1846" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 0 "
+         result="result3"
+         id="feColorMatrix1848" />
+      <feBlend
+         mode="multiply"
+         in="result2"
+         result="result5"
+         in2="result3"
+         id="feBlend1850" />
+      <feGaussianBlur
+         result="result4"
+         in="result3"
+         stdDeviation="5"
+         id="feGaussianBlur1852" />
+      <feComposite
+         k1="0.5"
+         k3="1.5"
+         k2="0.15"
+         in="result4"
+         in2="result5"
+         operator="arithmetic"
+         result="result6"
+         id="feComposite1854" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result4"
+         id="feComposite1856" />
+    </filter>
+    <filter
+       y="-0.15"
+       height="1.3"
+       x="-0.15"
+       width="1.3"
+       inkscape:menu-tooltip="Aquarelle paper effect which can be used for pictures as for objects"
+       inkscape:menu="Textures"
+       inkscape:label="Rough Paper"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1923">
+      <feTurbulence
+         type="fractalNoise"
+         baseFrequency="0.04"
+         numOctaves="5"
+         seed="0"
+         result="result4"
+         id="feTurbulence1909" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="result4"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         scale="10"
+         result="result3"
+         id="feDisplacementMap1911" />
+      <feDiffuseLighting
+         lighting-color="rgb(233,230,215)"
+         diffuseConstant="1"
+         surfaceScale="2"
+         result="result1"
+         in="result4"
+         id="feDiffuseLighting1915">
+        <feDistantLight
+           azimuth="235"
+           elevation="40"
+           id="feDistantLight1913" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="in"
+         in="result3"
+         in2="result1"
+         result="result2"
+         id="feComposite1917" />
+      <feComposite
+         in2="result1"
+         result="result5"
+         operator="arithmetic"
+         k1="1.7"
+         id="feComposite1919" />
+      <feBlend
+         in="result5"
+         in2="result3"
+         mode="normal"
+         id="feBlend1921" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="64.285714"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata1182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Paper"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#e9ddaf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1;filter:url(#filter1830)"
+       id="rect1814"
+       width="430.13687"
+       height="430.13687"
+       x="-123.22023"
+       y="-71.148811" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text: Join party"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1885"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:'Charlemagne Std';-inkscape-font-specification:'Charlemagne Std';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter1923)"
+       transform="matrix(0.35000676,0,0,0.35000676,516.54885,-2.7550253)"><flowRegion
+         id="flowRegion1887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:'Charlemagne Std';-inkscape-font-specification:'Charlemagne Std';text-align:center;text-anchor:middle"><rect
+           id="rect1889"
+           width="1185.7142"
+           height="1248.5714"
+           x="-1805.7142"
+           y="-26.051744"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:'Charlemagne Std';-inkscape-font-specification:'Charlemagne Std';text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara1891">!!!! IMPORTANT !!!!</flowPara><flowPara
+         id="flowPara1901">Expedition group gone missing!</flowPara><flowPara
+         id="flowPara1947" /><flowPara
+         id="flowPara1945">Join search party now!</flowPara><flowPara
+         id="flowPara1949">Call: 555-1959</flowPara><flowPara
+         id="flowPara1907">!!!! IMPORTANT !!!!</flowPara><flowPara
+         id="flowPara1903" /></flowRoot>  </g>
+</svg>
