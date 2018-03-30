@@ -48,7 +48,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_create(view_xview[0] + view_wview[0] / 2, 0, objectJoinNote);
+            <string>if (keyboard_check(ord('E'))) {
+    instance_create(view_xview[0] + view_wview[0] / 2, 0, objectJoinNote);
+}
 </string>
           </argument>
         </arguments>
