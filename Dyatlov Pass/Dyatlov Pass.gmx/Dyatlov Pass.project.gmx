@@ -12,21 +12,34 @@
     <sprite>sprites\spriteCharR</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\ch2_background</background>
-    <background>background\moon</background>
+    <backgrounds name="Chapter 2">
+      <background>background\ch2_background_left</background>
+      <background>background\ch2_background_right</background>
+      <background>background\moon</background>
+    </backgrounds>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\fontTitle</font>
+    <font>fonts\fontTitleInstr</font>
   </fonts>
   <objects name="objects">
-    <object>objects\objectTitle</object>
-    <object>objects\objectTitleDetect</object>
-    <object>objects\objectChpt1Detect</object>
-    <object>objects\objectChar</object>
-    <object>objects\objectEndGame</object>
-    <object>objects\objectEndDetect</object>
     <object>objects\objectFade</object>
+    <objects name="Title">
+      <object>objects\objectTitle</object>
+      <object>objects\objectTitleInstr</object>
+      <object>objects\objectTitleDetect</object>
+    </objects>
+    <objects name="Chapter 2">
+      <object>objects\objectChpt2Detect</object>
+      <object>objects\objectChar</object>
+    </objects>
+    <objects name="End Game">
+      <object>objects\objectEndGame</object>
+      <object>objects\objectEndGameInstr1</object>
+      <object>objects\objectEndGameInstr2</object>
+      <object>objects\objectEndDetect</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\roomTitle</room>

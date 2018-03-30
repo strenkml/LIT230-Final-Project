@@ -53,6 +53,7 @@
   <instances>
     <instance objName="objectTitle" x="640" y="360" name="inst_70F2958D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objectTitleDetect" x="0" y="0" name="inst_3AE3C75F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objectTitleInstr" x="640" y="400" name="inst_CD9FEB82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

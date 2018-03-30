@@ -53,6 +53,8 @@
   <instances>
     <instance objName="objectEndGame" x="640" y="360" name="inst_435C91AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objectEndDetect" x="0" y="0" name="inst_7182FD7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objectEndGameInstr1" x="640" y="400" name="inst_C6767355" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objectEndGameInstr2" x="640" y="430" name="inst_1AF49F0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

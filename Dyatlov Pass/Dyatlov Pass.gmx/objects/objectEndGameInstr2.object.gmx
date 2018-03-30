@@ -25,11 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_set_color(c_red);
-draw_set_font(fontTitle);
+            <string>draw_set_font(fontTitleInstr);
+draw_set_color(c_white);
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
-draw_text(x,y,"Game Over");
+draw_text(x,y,"Press ENTER to play again");
 </string>
           </argument>
         </arguments>
