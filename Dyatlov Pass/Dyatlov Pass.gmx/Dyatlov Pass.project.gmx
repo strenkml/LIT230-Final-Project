@@ -10,21 +10,27 @@
   <sprites name="sprites">
     <sprite>sprites\spriteCharL</sprite>
     <sprite>sprites\spriteCharR</sprite>
+    <sprite>sprites\spriteGroundNote</sprite>
+    <sprite>sprites\spriteJoinNote</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Chapter 2">
       <background>background\ch2_background_left</background>
       <background>background\ch2_background_right</background>
       <background>background\moon</background>
+      <background>background\ch2_background_fore_left</background>
+      <background>background\ch2_background_fore_right</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\fontTitle</font>
     <font>fonts\fontTitleInstr</font>
   </fonts>
   <objects name="objects">
     <object>objects\objectFade</object>
+    <object>objects\objectGroundNote</object>
     <objects name="Title">
       <object>objects\objectTitle</object>
       <object>objects\objectTitleInstr</object>
@@ -32,6 +38,7 @@
     </objects>
     <objects name="Chapter 2">
       <object>objects\objectChpt2Detect</object>
+      <object>objects\objectJoinNote</object>
       <object>objects\objectChar</object>
     </objects>
     <objects name="End Game">
