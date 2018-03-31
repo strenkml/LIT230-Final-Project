@@ -21,6 +21,9 @@
     <sprite>sprites\spriteGroundNote</sprite>
   </sprites>
   <backgrounds name="background">
+    <backgrounds name="Chapter 1">
+      <background>background\ch1_background</background>
+    </backgrounds>
     <backgrounds name="Chapter 2">
       <background>background\ch2_background_left</background>
       <background>background\ch2_background_right</background>
