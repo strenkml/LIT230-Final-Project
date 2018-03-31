@@ -8,10 +8,17 @@
     <sound>sound\soundTitle</sound>
   </sounds>
   <sprites name="sprites">
+    <sprites name="Instructions">
+      <sprite>sprites\spriteInstrLeft</sprite>
+      <sprite>sprites\spriteInstrRight</sprite>
+      <sprite>sprites\spriteInstrE</sprite>
+    </sprites>
+    <sprites name="Notes">
+      <sprite>sprites\spriteJoinNote</sprite>
+    </sprites>
     <sprite>sprites\spriteCharL</sprite>
     <sprite>sprites\spriteCharR</sprite>
     <sprite>sprites\spriteGroundNote</sprite>
-    <sprite>sprites\spriteJoinNote</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Chapter 2">
@@ -23,7 +30,6 @@
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\fontTitle</font>
     <font>fonts\fontTitleInstr</font>
@@ -36,10 +42,16 @@
       <object>objects\objectTitleInstr</object>
       <object>objects\objectTitleDetect</object>
     </objects>
+    <objects name="Chapter 1">
+      <object>objects\objectChpt1Detect</object>
+      <object>objects\objectInstrLeft</object>
+      <object>objects\objectInstrRight</object>
+      <object>objects\objectInstrE</object>
+    </objects>
     <objects name="Chapter 2">
       <object>objects\objectChpt2Detect</object>
-      <object>objects\objectJoinNote</object>
       <object>objects\objectChar</object>
+      <object>objects\objectJoinNote</object>
     </objects>
     <objects name="End Game">
       <object>objects\objectEndGame</object>
@@ -50,6 +62,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\roomTitle</room>
+    <room>rooms\roomTown</room>
     <room>rooms\roomWoods</room>
     <room>rooms\roomEnd</room>
   </rooms>
