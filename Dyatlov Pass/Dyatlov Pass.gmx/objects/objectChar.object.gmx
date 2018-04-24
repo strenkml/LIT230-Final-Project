@@ -151,7 +151,7 @@ image_index = 0;
     sprite_index = mainCharR;
     image_speed = .3;
     direction = 0;
-    speed = 5;
+    speed = 3;
 }
 </string>
           </argument>
@@ -178,7 +178,7 @@ image_index = 0;
             <string>if (!instance_exists(objectJoinNote)) {
     sprite_index = mainCharL;
     image_speed = .3;
-    speed = 5;
+    speed = 3;
     direction = 180;
 }
 </string>
