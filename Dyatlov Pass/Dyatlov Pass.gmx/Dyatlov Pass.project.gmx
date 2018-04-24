@@ -59,6 +59,12 @@
       <object>objects\objectChpt2Detect</object>
       <object>objects\objectJoinNote</object>
     </objects>
+    <objects name="Chapter 3">
+      <object>objects\objectChpt3Detect</object>
+    </objects>
+    <objects name="Chapter 4">
+      <object>objects\objectChpt4Detect</object>
+    </objects>
     <objects name="End Game">
       <object>objects\objectEndGame</object>
       <object>objects\objectEndGameInstr1</object>

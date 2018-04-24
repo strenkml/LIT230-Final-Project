@@ -1,0 +1,2 @@
+<h3 style="text-align:center">Created by: Michael Farden, Robin Kuhns, Courtney Maki, and Matthew Strenk</h3>
+<h4 style="text-align:center">Click <a style="text-decoration:none; color:cyan" href="https://github.com/strenkml/LIT230-Final-Project" target="_blank">here</a> for the GitHub Repository</h4>

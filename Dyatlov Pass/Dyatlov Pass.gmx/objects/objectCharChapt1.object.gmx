@@ -67,7 +67,7 @@
         <exetype>1</exetype>
         <functionname>action_move</functionname>
         <codestring></codestring>
-        <whoName>objectChar</whoName>
+        <whoName>objectCharChapt1</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -149,9 +149,9 @@ image_index = 0;
             <kind>1</kind>
             <string>if (!instance_exists(objectJoinNote)) {
     sprite_index = mainCharR;
-    image_speed = .3;
+    image_speed = .5;
     direction = 0;
-    speed = 5;
+    speed = 3;
 }
 </string>
           </argument>
@@ -177,8 +177,8 @@ image_index = 0;
             <kind>1</kind>
             <string>if (!instance_exists(objectJoinNote)) {
     sprite_index = mainCharL;
-    image_speed = .3;
-    speed = 5;
+    image_speed = .5;
+    speed = 3;
     direction = 180;
 }
 </string>
