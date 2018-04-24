@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\soundTitle</sound>
+    <sound>sound\soundScare</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Instructions">
@@ -16,13 +17,15 @@
     <sprites name="Notes">
       <sprite>sprites\spriteJoinNote</sprite>
     </sprites>
-    <sprite>sprites\spriteCharL</sprite>
-    <sprite>sprites\spriteCharR</sprite>
     <sprite>sprites\spriteGroundNote</sprite>
     <sprite>sprites\mainCharR</sprite>
     <sprite>sprites\mainCharL</sprite>
+    <sprite>sprites\monster</sprite>
+    <sprite>sprites\barrier</sprite>
+    <sprite>sprites\camera</sprite>
   </sprites>
   <backgrounds name="background">
+    <background>background\moon</background>
     <backgrounds name="Chapter 1">
       <background>background\ch1_background_left</background>
       <background>background\ch1_background_right</background>
@@ -30,12 +33,25 @@
     <backgrounds name="Chapter 2">
       <background>background\ch2_background_left</background>
       <background>background\ch2_background_right</background>
-      <background>background\moon</background>
       <background>background\ch2_background_fore_left</background>
       <background>background\ch2_background_fore_right</background>
     </backgrounds>
+    <backgrounds name="Chapter 3">
+      <background>background\ch3_background_left</background>
+      <background>background\ch3_background_right</background>
+      <background>background\ch3_foreground_left</background>
+      <background>background\ch3_foreground_right</background>
+      <background>background\tree</background>
+    </backgrounds>
+    <backgrounds name="Chapter 4">
+      <background>background\ch4_background_left</background>
+      <background>background\ch4_background_right</background>
+    </backgrounds>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\chpt4Pan</path>
+    <path>paths\chpt4Shake</path>
+  </paths>
   <fonts name="fonts">
     <font>fonts\fontTitle</font>
     <font>fonts\fontTitleInstr</font>
@@ -44,6 +60,7 @@
     <object>objects\objectFade</object>
     <object>objects\objectGroundNote</object>
     <object>objects\objectChar</object>
+    <object>objects\objectCamera</object>
     <objects name="Title">
       <object>objects\objectTitle</object>
       <object>objects\objectTitleInstr</object>
@@ -64,6 +81,8 @@
     </objects>
     <objects name="Chapter 4">
       <object>objects\objectChpt4Detect</object>
+      <object>objects\objectMonster</object>
+      <object>objects\objectBarrier</object>
     </objects>
     <objects name="End Game">
       <object>objects\objectEndGame</object>
@@ -72,6 +91,7 @@
       <object>objects\objectEndDetect</object>
     </objects>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\roomTitle</room>
     <room>rooms\roomChpt1</room>
