@@ -118,10 +118,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.16"
-     inkscape:cx="4138.15"
+     inkscape:cx="4909.0913"
      inkscape:cy="349.43632"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1920"
@@ -157,7 +157,7 @@
        height="720"
        x="3.330078e-006"
        y="-423"
-       style="fill:#1f1f37;fill-opacity:1;stroke-width:0.84157068"
+       style="fill:#10101a;fill-opacity:1;stroke-width:0.84157068"
        inkscape:export-xdpi="25.4"
        inkscape:export-ydpi="25.4" />
     <path
@@ -1002,7 +1002,7 @@
        inkscape:export-ydpi="25.4" />
     <path
        style="fill:#1a1a1a;stroke:#000000;stroke-width:0.35900229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2558.4053,112.10668 c 0,0 41.1686,36.35183 64.4288,50.7635 25.5481,15.82929 57.1261,21.11846 81.5463,38.6141 22.0646,15.80797 35.3603,41.49935 56.5669,58.42492 17.9342,14.3138 58.8862,35.7703 58.8862,35.7703 l 589.4393,1.18519 c 0,0 46.1048,-28.41529 65.5507,-41.61647 12.4771,-8.47013 34.6314,-33.05817 44.7832,-40.81742 20.9381,-16.00358 38.5727,-24.89773 60.631,-39.3426 14.6172,-9.57203 38.2103,-15.77943 51.8998,-26.24287 16.6125,-12.69745 37.0725,-36.73865 37.0725,-36.73865 z"
+       d="m 2558.4053,113.16502 c 0,0 41.1686,36.35183 64.4288,50.7635 25.5481,15.82929 57.1261,21.11846 81.5463,38.6141 22.0646,15.80797 35.3603,41.49935 56.5669,58.42492 17.9342,14.3138 58.8862,35.7703 58.8862,35.7703 l 589.4393,1.18519 c 0,0 46.1048,-28.41529 65.5507,-41.61647 12.4771,-8.47013 34.6314,-33.05817 44.7832,-40.81742 20.9381,-16.00358 38.5727,-24.89773 60.631,-39.3426 14.6172,-9.57203 38.2103,-15.77943 51.8998,-26.24287 16.6125,-12.69745 37.0725,-36.73865 37.0725,-36.73865 z"
        id="path987"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssccsssscc" />
@@ -1016,18 +1016,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-1-2-6-3"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-9-6-2-3"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-7-4-1-0"
-           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
+           points="5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1083,18 +1083,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-7"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-8"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-3"
-           points="5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 "
+           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1150,18 +1150,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-1-2-6-3-0"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-9-6-2-3-3"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-7-4-1-0-1"
-           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
+           points="5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1217,18 +1217,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-1-2-6-3-0-6"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-9-6-2-3-3-0"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-7-4-1-0-1-4"
-           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
+           points="5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1284,18 +1284,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-1-27"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-9-5"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-7-0"
-           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
+           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1352,18 +1352,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-1-27-0"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-9-5-6"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-7-0-1"
-           points="5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 "
+           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1419,18 +1419,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0"
-           points="5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 "
+           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1477,7 +1477,7 @@
          class="fil25" />
     </g>
     <g
-       transform="matrix(0.02686518,-0.02394998,0.02443867,0.02680308,3452.8414,229.30324)"
+       transform="matrix(0.02686518,-0.02394998,0.02443867,0.02680308,3452.8414,230.36158)"
        style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_881252144-1-5-8">
       <g
@@ -1486,18 +1486,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5"
-           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
+           points="5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1544,7 +1544,7 @@
          class="fil25" />
     </g>
     <g
-       transform="matrix(0.03131607,-0.01773819,0.01822898,0.03135854,3415.8618,203.72455)"
+       transform="matrix(0.03131607,-0.01773819,0.01822898,0.03135854,3415.8618,204.25372)"
        style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_881252144-1-5-8-7">
       <g
@@ -1553,18 +1553,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5"
-           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
+           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1620,18 +1620,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9"
-           points="5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 "
+           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1687,18 +1687,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-3"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-9"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-5"
-           points="5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 "
+           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1754,18 +1754,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-3-6"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-9-6"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-5-3"
-           points="5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 "
+           points="5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1821,18 +1821,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-3-3"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-9-7"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-5-35"
-           points="5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 "
+           points="5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1888,18 +1888,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-3-4"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-9-70"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-5-32"
-           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
+           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -1956,18 +1956,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-3-0"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-9-2"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-5-6"
-           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
+           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2023,18 +2023,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-1"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-5"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-4"
-           points="5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 "
+           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2081,7 +2081,7 @@
          class="fil25" />
     </g>
     <g
-       transform="matrix(0.04269913,0.03135387,-0.02650417,0.01901303,2412.4414,-54.34616)"
+       transform="matrix(0.04269913,0.03135387,-0.02650417,0.01901303,2412.4414,-53.287826)"
        style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_881252144-4">
       <g
@@ -2090,18 +2090,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-4"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-4"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-9"
-           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
+           points="5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2148,7 +2148,7 @@
          class="fil25" />
     </g>
     <g
-       transform="matrix(0.03132949,0.01771445,-0.01749817,0.03177211,2489.7974,19.186858)"
+       transform="matrix(0.03132949,0.01771445,-0.01749817,0.03177211,2489.7974,20.245192)"
        style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_881252144-1">
       <g
@@ -2157,18 +2157,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4"
-           points="5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 "
+           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2224,18 +2224,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457"
-           points="5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 "
+           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2291,18 +2291,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-4-8"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-4-2"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-9-5"
-           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
+           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2358,18 +2358,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-4-8-2"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-4-2-7"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-9-5-7"
-           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
+           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2425,18 +2425,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-39"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-1"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-7"
-           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
+           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2492,18 +2492,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-39-2"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-1-9"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-7-0"
-           points="5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 "
+           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2559,18 +2559,18 @@
            style="fill:#dfddde"
            inkscape:connector-curvature="0"
            id="path1453-3-4-0-9-5-3-6-0"
-           d="m 5656,1242 c 126,0 230,179 252,415 l -172,0 -133,0 -199,0 -172,0 -133,0 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
+           d="m 5656,1242 c 126,0 230,179 252,415 h -172 -133 -199 -172 -133 c 21,-178 109,-316 219,-340 45,-87 103,-140 166,-140 45,0 88,27 125,74 15,-6 31,-9 47,-9 z"
            class="fil26" />
         <path
            style="fill:#b4b3b8"
            inkscape:connector-curvature="0"
            id="path1455-3-2-5-8-7-9-6-6"
-           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 133,0 172,0 z"
+           d="m 5504,1657 -90,-104 -51,-231 20,-98 c -24,23 -46,55 -65,93 l -26,182 40,123 -233,35 h 133 172 z"
            class="fil27" />
         <polygon
            style="fill:#b4b3b8"
            id="polygon1457-4-0-5-5-9-5-3-8"
-           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
+           points="5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 "
            class="fil27" />
         <path
            style="fill:#e7e5e6"
@@ -2621,7 +2621,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="objects_background"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(0.14670637,0,0,0.14670637,446.4898,-136.91817)"
        style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
@@ -3063,7 +3064,7 @@
        id="g12731" />
     <g
        transform="matrix(-0.16832344,0,0,0.16832344,2882.6759,-165.72065)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-8-9-9">
       <g
          id="g1784-3-9-6">
@@ -3209,7 +3210,7 @@
     </g>
     <g
        transform="matrix(-0.09061145,0,0,0.09061145,2545.3714,-36.774549)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-4-9-5">
       <g
          id="g1784-35-2-0">
@@ -3355,7 +3356,7 @@
     </g>
     <g
        transform="matrix(0.09871185,0,0,0.09871185,-250.17126,-18.518398)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-4">
       <g
          id="g1784-35">
@@ -3501,7 +3502,7 @@
     </g>
     <g
        transform="matrix(0.07853806,0,0,0.07853806,1574.4581,-4.704003)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-3">
       <g
          id="g1784-0">
@@ -3647,7 +3648,7 @@
     </g>
     <g
        transform="matrix(0.12948089,0,0,0.12948089,-585.69532,-65.596212)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962778144">
       <g
          id="g1833">
@@ -4084,7 +4085,7 @@
     </g>
     <g
        transform="matrix(0.09871185,0,0,0.09871185,1287.7291,-29.905579)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400">
       <g
          id="g1784">
@@ -4376,7 +4377,7 @@
     </g>
     <g
        transform="matrix(0.09871185,0,0,0.09871185,764.74823,-35.054855)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-9">
       <g
          id="g1784-1">
@@ -4522,7 +4523,7 @@
     </g>
     <g
        transform="matrix(0.09871185,0,0,0.09871185,449.95613,-43.274406)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-8">
       <g
          id="g1784-3">
@@ -4668,7 +4669,7 @@
     </g>
     <g
        transform="matrix(-0.09061145,0,0,0.09061145,1518.7226,17.01344)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-4-9">
       <g
          id="g1784-35-2">
@@ -4960,7 +4961,7 @@
     </g>
     <g
        transform="matrix(-0.09061145,0,0,0.09061145,2444.0778,-0.49169566)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-4-9-8">
       <g
          id="g1784-35-2-5">
@@ -5106,7 +5107,7 @@
     </g>
     <g
        transform="matrix(-0.09061145,0,0,0.09061145,2816.6502,7.6590112)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-4-9-56">
       <g
          id="g1784-35-2-7">
@@ -5252,7 +5253,7 @@
     </g>
     <g
        transform="matrix(-0.09061145,0,0,0.09061145,3125.3464,-18.065681)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-4-9-4">
       <g
          id="g1784-35-2-84">
@@ -6171,7 +6172,7 @@
     </g>
     <g
        transform="matrix(-0.09677177,0,0,0.09677177,854.50217,19.26293)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="g1806-30-9">
       <path
          class="fil24"
@@ -6217,17 +6218,17 @@
              id="g1353">
             <polygon
                class="fil6"
-               points="6439,1136 6527,1136 6527,1708 6439,1708 "
+               points="6527,1708 6439,1708 6439,1136 6527,1136 "
                id="polygon1355"
                style="fill:#ae703e" />
             <polygon
                class="fil13"
-               points="6439,1136 6456,1136 6456,1708 6439,1708 "
+               points="6456,1708 6439,1708 6439,1136 6456,1136 "
                id="polygon1357"
                style="fill:#c07e4c" />
             <polygon
                class="fil9"
-               points="6509,1136 6527,1136 6527,1708 6509,1708 "
+               points="6527,1708 6509,1708 6509,1136 6527,1136 "
                id="polygon1359"
                style="fill:#945e36" />
             <polygon
@@ -6237,33 +6238,33 @@
                style="fill:#945e36" />
             <polygon
                class="fil6"
-               points="6444,1437 6439,1453 6439,1708 6456,1708 6456,1520 "
+               points="6439,1453 6439,1708 6456,1708 6456,1520 6444,1437 "
                id="polygon1363"
                style="fill:#ae703e" />
             <polygon
                class="fil8"
-               points="6527,1708 6527,1503 6519,1517 6509,1458 6509,1708 "
+               points="6527,1503 6519,1517 6509,1458 6509,1708 6527,1708 "
                id="polygon1365"
                style="fill:#7a4d2e" />
             <polygon
                class="fil9"
-               points="6455,1644 6439,1598 6439,1708 6456,1708 6456,1612 "
+               points="6439,1598 6439,1708 6456,1708 6456,1612 6455,1644 "
                id="polygon1367"
                style="fill:#945e36" />
             <polygon
                class="fil8"
-               points="6497,1559 6485,1642 6459,1545 6456,1612 6456,1708 6509,1708 6509,1594 "
+               points="6509,1594 6497,1559 6485,1642 6459,1545 6456,1612 6456,1708 6509,1708 "
                id="polygon1369"
                style="fill:#7a4d2e" />
             <polygon
                class="fil10"
-               points="6527,1708 6527,1586 6523,1635 6509,1594 6509,1708 "
+               points="6527,1586 6523,1635 6509,1594 6509,1708 6527,1708 "
                id="polygon1371"
                style="fill:#633e25" />
           </g>
           <polygon
              class="fil6 str0"
-             points="6214,1517 6214,1447 6268,1434 6214,1430 6214,1239 6301,1233 6214,1217 6214,1136 6752,1136 6752,1378 6683,1383 6752,1396 6752,1517 "
+             points="6214,1217 6214,1136 6752,1136 6752,1378 6683,1383 6752,1396 6752,1517 6214,1517 6214,1447 6268,1434 6214,1430 6214,1239 6301,1233 "
              id="polygon1373"
              style="fill:#ae703e;stroke:#945e36;stroke-width:15.6189003" />
           <polygon
@@ -6340,7 +6341,7 @@
     </g>
     <g
        transform="matrix(-0.13185308,0,0,0.13185308,1760.4565,-51.872671)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="g1806-30">
       <path
          class="fil24"
@@ -6375,7 +6376,7 @@
     </g>
     <g
        id="g4727"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.06153674,0,0,0.06153674,999.00052,74.268946)">
       <g
          id="g4729">
@@ -6393,7 +6394,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 "
+           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
            id="polygon4735"
            style="fill:#b4b3b8" />
         <path
@@ -6442,7 +6443,7 @@
     </g>
     <g
        id="g4751"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.04204387,0,0,0.04204387,1136.5601,117.31733)">
       <g
          id="g4753">
@@ -6460,7 +6461,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 "
+           points="5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 "
            id="polygon4759"
            style="fill:#b4b3b8" />
         <path
@@ -6527,7 +6528,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 "
+           points="5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 "
            id="polygon4783"
            style="fill:#b4b3b8" />
         <path
@@ -6576,7 +6577,7 @@
     </g>
     <g
        id="g4799"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.07679292,0,0,0.07679292,1775.0655,53.698971)">
       <g
          id="g4801">
@@ -6594,7 +6595,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
+           points="5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 "
            id="polygon4807"
            style="fill:#b4b3b8" />
         <path
@@ -6661,7 +6662,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 "
+           points="5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 "
            id="polygon4831"
            style="fill:#b4b3b8" />
         <path
@@ -6710,7 +6711,7 @@
     </g>
     <g
        id="g4847"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.04817606,0,0,0.04817606,-89.331662,133.82322)">
       <g
          id="g4849">
@@ -6728,7 +6729,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 "
+           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
            id="polygon4855"
            style="fill:#b4b3b8" />
         <path
@@ -6777,7 +6778,7 @@
     </g>
     <g
        transform="matrix(0.06075294,0,0,0.06075294,107.65646,125.02932)"
-       style="display:inline;clip-rule:evenodd;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962724320-4">
       <g
          id="g1631-2">
@@ -6791,12 +6792,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1637-4"
-             points="7062,656 7088,857 7031,777 7019,682 "
+             points="7031,777 7019,682 7062,656 7088,857 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1639-37"
-             points="7099,634 7136,925 7107,885 7077,647 "
+             points="7107,885 7077,647 7099,634 7136,925 "
              class="fil37" />
         </g>
         <polygon
@@ -6807,19 +6808,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1643-8"
-           points="7177,929 7204,913 7230,897 7124,695 7055,735 "
+           points="7204,913 7230,897 7124,695 7055,735 7177,929 "
            class="fil38" />
         <g
            id="g1645-7">
           <polygon
              style="fill:#59cdff"
              id="polygon1647-97"
-             points="7109,821 7143,876 7156,757 7124,695 7123,695 "
+             points="7143,876 7156,757 7124,695 7123,695 7109,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1649-5"
-             points="7168,779 7155,895 7173,922 7185,811 "
+             points="7173,922 7185,811 7168,779 7155,895 "
              class="fil36" />
         </g>
         <polygon
@@ -6830,7 +6831,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1653-99"
-           points="7257,882 7134,630 7124,695 7230,897 "
+           points="7124,695 7230,897 7257,882 7134,630 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -6840,7 +6841,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1657-4"
-           points="7053,738 7148,883 7060,736 7096,711 7057,730 7039,658 7051,730 6999,720 "
+           points="7051,730 6999,720 7053,738 7148,883 7060,736 7096,711 7057,730 7039,658 "
            class="fil24" />
       </g>
       <g
@@ -6855,12 +6856,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1665-46"
-             points="6971,732 7102,833 7069,760 7007,713 "
+             points="7069,760 7007,713 6971,732 7102,833 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1667-7"
-             points="6941,749 7130,895 7113,859 6959,739 "
+             points="7113,859 6959,739 6941,749 7130,895 "
              class="fil37" />
         </g>
         <polygon
@@ -6871,19 +6872,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1671-2"
-           points="7116,926 7093,938 7071,950 6973,792 7030,760 "
+           points="7093,938 7071,950 6973,792 7030,760 7116,926 "
            class="fil38" />
         <g
            id="g1673-1">
           <polygon
              style="fill:#59cdff"
              id="polygon1675-8"
-             points="7068,833 7092,880 7003,840 6973,792 6974,791 "
+             points="7092,880 7003,840 6973,792 6974,791 7068,833 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1677-00"
-             points="7014,858 7100,896 7112,920 7029,882 "
+             points="7112,920 7029,882 7014,858 7100,896 "
              class="fil36" />
         </g>
         <polygon
@@ -6894,7 +6895,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1681-4"
-           points="7049,962 6924,772 6973,792 7071,950 "
+           points="6973,792 7071,950 7049,962 6924,772 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -6904,7 +6905,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1685-6"
-           points="7033,760 7095,886 7028,764 6996,779 7025,760 6982,717 7028,755 7042,715 "
+           points="7028,755 7042,715 7033,760 7095,886 7028,764 6996,779 7025,760 6982,717 "
            class="fil24" />
       </g>
       <g
@@ -6919,12 +6920,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1693-7"
-             points="7264,515 7146,787 7134,643 7190,515 "
+             points="7134,643 7190,515 7264,515 7146,787 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1695-127"
-             points="7327,515 7155,909 7150,837 7290,515 "
+             points="7150,837 7290,515 7327,515 7155,909 "
              class="fil37" />
         </g>
         <polygon
@@ -6935,19 +6936,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1699-8"
-           points="7204,944 7249,944 7295,944 7313,610 7196,610 "
+           points="7249,944 7295,944 7313,610 7196,610 7204,944 "
            class="fil38" />
         <g
            id="g1701-8">
           <polygon
              style="fill:#59cdff"
              id="polygon1703-04"
-             points="7199,757 7202,852 7307,712 7313,610 7311,610 "
+             points="7202,852 7307,712 7313,610 7311,610 7199,757 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1705-04"
-             points="7305,749 7202,885 7203,932 7302,801 "
+             points="7203,932 7302,801 7305,749 7202,885 "
              class="fil36" />
         </g>
         <polygon
@@ -6958,7 +6959,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1709-9"
-           points="7340,944 7373,536 7313,610 7295,944 "
+           points="7313,610 7295,944 7340,944 7373,536 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -6968,7 +6969,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1713-1"
-           points="7191,612 7202,865 7201,614 7265,610 7203,604 7234,500 7195,600 7137,549 "
+           points="7195,600 7137,549 7191,612 7202,865 7201,614 7265,610 7203,604 7234,500 "
            class="fil24" />
       </g>
       <g
@@ -6983,12 +6984,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1721-9"
-             points="7443,676 7322,831 7338,738 7396,664 "
+             points="7338,738 7396,664 7443,676 7322,831 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1723-9"
-             points="7483,687 7309,911 7317,864 7460,681 "
+             points="7317,864 7460,681 7483,687 7309,911 "
              class="fil37" />
         </g>
         <polygon
@@ -6999,19 +7000,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1727-3"
-           points="7334,942 7363,949 7392,957 7459,745 7384,726 "
+           points="7363,949 7392,957 7459,745 7384,726 7334,942 "
            class="fil38" />
         <g
            id="g1729-3">
           <polygon
              style="fill:#59cdff"
              id="polygon1731-9"
-             points="7362,821 7348,882 7438,810 7459,745 7457,745 "
+             points="7348,882 7438,810 7459,745 7457,745 7362,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1733-8"
-             points="7431,833 7343,904 7336,934 7421,866 "
+             points="7336,934 7421,866 7431,833 7343,904 "
              class="fil36" />
         </g>
         <polygon
@@ -7022,7 +7023,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1737-2"
-           points="7421,964 7509,708 7459,745 7392,957 "
+           points="7459,745 7392,957 7421,964 7509,708 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7032,7 +7033,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1741-92"
-           points="7381,727 7346,891 7386,730 7428,737 7389,724 7426,662 7385,720 7356,677 "
+           points="7385,720 7356,677 7381,727 7346,891 7386,730 7428,737 7389,724 7426,662 "
            class="fil24" />
       </g>
       <g
@@ -7047,12 +7048,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1749-98"
-             points="7347,710 7235,834 7254,755 7307,696 "
+             points="7254,755 7307,696 7347,710 7235,834 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1751-5"
-             points="7381,721 7219,901 7228,862 7361,714 "
+             points="7228,862 7361,714 7381,721 7219,901 "
              class="fil37" />
         </g>
         <polygon
@@ -7063,19 +7064,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1755-05"
-           points="7238,929 7262,937 7287,945 7356,769 7294,748 "
+           points="7262,937 7287,945 7356,769 7294,748 7238,929 "
            class="fil38" />
         <g
            id="g1757-7">
           <polygon
              style="fill:#59cdff"
              id="polygon1759-9"
-             points="7269,828 7253,879 7335,823 7356,769 7355,769 "
+             points="7253,879 7335,823 7356,769 7355,769 7269,828 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1761-0"
-             points="7327,842 7248,897 7240,922 7317,870 "
+             points="7240,922 7317,870 7327,842 7248,897 "
              class="fil36" />
         </g>
         <polygon
@@ -7086,7 +7087,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1765-6"
-           points="7311,953 7402,741 7356,769 7287,945 "
+           points="7356,769 7287,945 7311,953 7402,741 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7096,7 +7097,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1769-2"
-           points="7291,749 7251,886 7296,752 7331,761 7298,747 7334,697 7295,743 7273,705 "
+           points="7295,743 7273,705 7291,749 7251,886 7296,752 7331,761 7298,747 7334,697 "
            class="fil24" />
       </g>
       <g
@@ -7135,7 +7136,7 @@
     </g>
     <g
        transform="matrix(0.06075294,0,0,0.06075294,829.11715,113.33627)"
-       style="display:inline;clip-rule:evenodd;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962724320-4-4">
       <g
          id="g1631-2-1">
@@ -7149,12 +7150,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1637-4-6"
-             points="7031,777 7019,682 7062,656 7088,857 "
+             points="7062,656 7088,857 7031,777 7019,682 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1639-37-4"
-             points="7107,885 7077,647 7099,634 7136,925 "
+             points="7099,634 7136,925 7107,885 7077,647 "
              class="fil37" />
         </g>
         <polygon
@@ -7165,19 +7166,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1643-8-2"
-           points="7204,913 7230,897 7124,695 7055,735 7177,929 "
+           points="7230,897 7124,695 7055,735 7177,929 7204,913 "
            class="fil38" />
         <g
            id="g1645-7-1">
           <polygon
              style="fill:#59cdff"
              id="polygon1647-97-0"
-             points="7143,876 7156,757 7124,695 7123,695 7109,821 "
+             points="7156,757 7124,695 7123,695 7109,821 7143,876 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1649-5-7"
-             points="7173,922 7185,811 7168,779 7155,895 "
+             points="7168,779 7155,895 7173,922 7185,811 "
              class="fil36" />
         </g>
         <polygon
@@ -7188,7 +7189,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1653-99-3"
-           points="7124,695 7230,897 7257,882 7134,630 "
+           points="7257,882 7134,630 7124,695 7230,897 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7198,7 +7199,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1657-4-3"
-           points="7051,730 6999,720 7053,738 7148,883 7060,736 7096,711 7057,730 7039,658 "
+           points="7057,730 7039,658 7051,730 6999,720 7053,738 7148,883 7060,736 7096,711 "
            class="fil24" />
       </g>
       <g
@@ -7213,12 +7214,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1665-46-7"
-             points="7069,760 7007,713 6971,732 7102,833 "
+             points="6971,732 7102,833 7069,760 7007,713 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1667-7-3"
-             points="7113,859 6959,739 6941,749 7130,895 "
+             points="6941,749 7130,895 7113,859 6959,739 "
              class="fil37" />
         </g>
         <polygon
@@ -7229,19 +7230,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1671-2-9"
-           points="7093,938 7071,950 6973,792 7030,760 7116,926 "
+           points="7071,950 6973,792 7030,760 7116,926 7093,938 "
            class="fil38" />
         <g
            id="g1673-1-2">
           <polygon
              style="fill:#59cdff"
              id="polygon1675-8-6"
-             points="7092,880 7003,840 6973,792 6974,791 7068,833 "
+             points="7003,840 6973,792 6974,791 7068,833 7092,880 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1677-00-2"
-             points="7112,920 7029,882 7014,858 7100,896 "
+             points="7014,858 7100,896 7112,920 7029,882 "
              class="fil36" />
         </g>
         <polygon
@@ -7252,7 +7253,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1681-4-3"
-           points="6973,792 7071,950 7049,962 6924,772 "
+           points="7049,962 6924,772 6973,792 7071,950 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7262,7 +7263,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1685-6-5"
-           points="7028,755 7042,715 7033,760 7095,886 7028,764 6996,779 7025,760 6982,717 "
+           points="7025,760 6982,717 7028,755 7042,715 7033,760 7095,886 7028,764 6996,779 "
            class="fil24" />
       </g>
       <g
@@ -7277,12 +7278,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1693-7-5"
-             points="7134,643 7190,515 7264,515 7146,787 "
+             points="7264,515 7146,787 7134,643 7190,515 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1695-127-0"
-             points="7150,837 7290,515 7327,515 7155,909 "
+             points="7327,515 7155,909 7150,837 7290,515 "
              class="fil37" />
         </g>
         <polygon
@@ -7293,19 +7294,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1699-8-9"
-           points="7249,944 7295,944 7313,610 7196,610 7204,944 "
+           points="7295,944 7313,610 7196,610 7204,944 7249,944 "
            class="fil38" />
         <g
            id="g1701-8-2">
           <polygon
              style="fill:#59cdff"
              id="polygon1703-04-7"
-             points="7202,852 7307,712 7313,610 7311,610 7199,757 "
+             points="7307,712 7313,610 7311,610 7199,757 7202,852 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1705-04-1"
-             points="7203,932 7302,801 7305,749 7202,885 "
+             points="7305,749 7202,885 7203,932 7302,801 "
              class="fil36" />
         </g>
         <polygon
@@ -7316,7 +7317,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1709-9-1"
-           points="7313,610 7295,944 7340,944 7373,536 "
+           points="7340,944 7373,536 7313,610 7295,944 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7326,7 +7327,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1713-1-5"
-           points="7195,600 7137,549 7191,612 7202,865 7201,614 7265,610 7203,604 7234,500 "
+           points="7203,604 7234,500 7195,600 7137,549 7191,612 7202,865 7201,614 7265,610 "
            class="fil24" />
       </g>
       <g
@@ -7341,12 +7342,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1721-9-7"
-             points="7338,738 7396,664 7443,676 7322,831 "
+             points="7443,676 7322,831 7338,738 7396,664 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1723-9-7"
-             points="7317,864 7460,681 7483,687 7309,911 "
+             points="7483,687 7309,911 7317,864 7460,681 "
              class="fil37" />
         </g>
         <polygon
@@ -7357,19 +7358,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1727-3-4"
-           points="7363,949 7392,957 7459,745 7384,726 7334,942 "
+           points="7392,957 7459,745 7384,726 7334,942 7363,949 "
            class="fil38" />
         <g
            id="g1729-3-9">
           <polygon
              style="fill:#59cdff"
              id="polygon1731-9-4"
-             points="7348,882 7438,810 7459,745 7457,745 7362,821 "
+             points="7438,810 7459,745 7457,745 7362,821 7348,882 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1733-8-7"
-             points="7336,934 7421,866 7431,833 7343,904 "
+             points="7431,833 7343,904 7336,934 7421,866 "
              class="fil36" />
         </g>
         <polygon
@@ -7380,7 +7381,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1737-2-4"
-           points="7459,745 7392,957 7421,964 7509,708 "
+           points="7421,964 7509,708 7459,745 7392,957 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7390,7 +7391,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1741-92-6"
-           points="7385,720 7356,677 7381,727 7346,891 7386,730 7428,737 7389,724 7426,662 "
+           points="7389,724 7426,662 7385,720 7356,677 7381,727 7346,891 7386,730 7428,737 "
            class="fil24" />
       </g>
       <g
@@ -7405,12 +7406,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1749-98-8"
-             points="7254,755 7307,696 7347,710 7235,834 "
+             points="7347,710 7235,834 7254,755 7307,696 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1751-5-4"
-             points="7228,862 7361,714 7381,721 7219,901 "
+             points="7381,721 7219,901 7228,862 7361,714 "
              class="fil37" />
         </g>
         <polygon
@@ -7421,19 +7422,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1755-05-0"
-           points="7262,937 7287,945 7356,769 7294,748 7238,929 "
+           points="7287,945 7356,769 7294,748 7238,929 7262,937 "
            class="fil38" />
         <g
            id="g1757-7-7">
           <polygon
              style="fill:#59cdff"
              id="polygon1759-9-2"
-             points="7253,879 7335,823 7356,769 7355,769 7269,828 "
+             points="7335,823 7356,769 7355,769 7269,828 7253,879 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1761-0-9"
-             points="7240,922 7317,870 7327,842 7248,897 "
+             points="7327,842 7248,897 7240,922 7317,870 "
              class="fil36" />
         </g>
         <polygon
@@ -7444,7 +7445,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1765-6-5"
-           points="7356,769 7287,945 7311,953 7402,741 "
+           points="7311,953 7402,741 7356,769 7287,945 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7454,7 +7455,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1769-2-2"
-           points="7295,743 7273,705 7291,749 7251,886 7296,752 7331,761 7298,747 7334,697 "
+           points="7298,747 7334,697 7295,743 7273,705 7291,749 7251,886 7296,752 7331,761 "
            class="fil24" />
       </g>
       <g
@@ -7493,7 +7494,7 @@
     </g>
     <g
        transform="matrix(0.06075294,0,0,0.06075294,1300.3468,125.02932)"
-       style="display:inline;clip-rule:evenodd;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962724320-4-5">
       <g
          id="g1631-2-4">
@@ -7507,12 +7508,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1637-4-2"
-             points="7088,857 7031,777 7019,682 7062,656 "
+             points="7019,682 7062,656 7088,857 7031,777 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1639-37-48"
-             points="7136,925 7107,885 7077,647 7099,634 "
+             points="7077,647 7099,634 7136,925 7107,885 "
              class="fil37" />
         </g>
         <polygon
@@ -7523,19 +7524,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1643-8-5"
-           points="7177,929 7204,913 7230,897 7124,695 7055,735 "
+           points="7204,913 7230,897 7124,695 7055,735 7177,929 "
            class="fil38" />
         <g
            id="g1645-7-9">
           <polygon
              style="fill:#59cdff"
              id="polygon1647-97-4"
-             points="7109,821 7143,876 7156,757 7124,695 7123,695 "
+             points="7143,876 7156,757 7124,695 7123,695 7109,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1649-5-9"
-             points="7155,895 7173,922 7185,811 7168,779 "
+             points="7185,811 7168,779 7155,895 7173,922 "
              class="fil36" />
         </g>
         <polygon
@@ -7546,7 +7547,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1653-99-7"
-           points="7134,630 7124,695 7230,897 7257,882 "
+           points="7230,897 7257,882 7134,630 7124,695 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7556,7 +7557,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1657-4-5"
-           points="7039,658 7051,730 6999,720 7053,738 7148,883 7060,736 7096,711 7057,730 "
+           points="7096,711 7057,730 7039,658 7051,730 6999,720 7053,738 7148,883 7060,736 "
            class="fil24" />
       </g>
       <g
@@ -7571,12 +7572,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1665-46-71"
-             points="7102,833 7069,760 7007,713 6971,732 "
+             points="7007,713 6971,732 7102,833 7069,760 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1667-7-8"
-             points="7130,895 7113,859 6959,739 6941,749 "
+             points="6959,739 6941,749 7130,895 7113,859 "
              class="fil37" />
         </g>
         <polygon
@@ -7587,19 +7588,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1671-2-4"
-           points="7116,926 7093,938 7071,950 6973,792 7030,760 "
+           points="7093,938 7071,950 6973,792 7030,760 7116,926 "
            class="fil38" />
         <g
            id="g1673-1-7">
           <polygon
              style="fill:#59cdff"
              id="polygon1675-8-4"
-             points="7068,833 7092,880 7003,840 6973,792 6974,791 "
+             points="7092,880 7003,840 6973,792 6974,791 7068,833 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1677-00-8"
-             points="7100,896 7112,920 7029,882 7014,858 "
+             points="7029,882 7014,858 7100,896 7112,920 "
              class="fil36" />
         </g>
         <polygon
@@ -7610,7 +7611,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1681-4-2"
-           points="6924,772 6973,792 7071,950 7049,962 "
+           points="7071,950 7049,962 6924,772 6973,792 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7620,7 +7621,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1685-6-7"
-           points="6982,717 7028,755 7042,715 7033,760 7095,886 7028,764 6996,779 7025,760 "
+           points="6996,779 7025,760 6982,717 7028,755 7042,715 7033,760 7095,886 7028,764 "
            class="fil24" />
       </g>
       <g
@@ -7635,12 +7636,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1693-7-7"
-             points="7146,787 7134,643 7190,515 7264,515 "
+             points="7190,515 7264,515 7146,787 7134,643 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1695-127-9"
-             points="7155,909 7150,837 7290,515 7327,515 "
+             points="7290,515 7327,515 7155,909 7150,837 "
              class="fil37" />
         </g>
         <polygon
@@ -7651,19 +7652,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1699-8-5"
-           points="7204,944 7249,944 7295,944 7313,610 7196,610 "
+           points="7249,944 7295,944 7313,610 7196,610 7204,944 "
            class="fil38" />
         <g
            id="g1701-8-4">
           <polygon
              style="fill:#59cdff"
              id="polygon1703-04-8"
-             points="7199,757 7202,852 7307,712 7313,610 7311,610 "
+             points="7202,852 7307,712 7313,610 7311,610 7199,757 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1705-04-0"
-             points="7202,885 7203,932 7302,801 7305,749 "
+             points="7302,801 7305,749 7202,885 7203,932 "
              class="fil36" />
         </g>
         <polygon
@@ -7674,7 +7675,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1709-9-7"
-           points="7373,536 7313,610 7295,944 7340,944 "
+           points="7295,944 7340,944 7373,536 7313,610 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7684,7 +7685,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1713-1-6"
-           points="7234,500 7195,600 7137,549 7191,612 7202,865 7201,614 7265,610 7203,604 "
+           points="7265,610 7203,604 7234,500 7195,600 7137,549 7191,612 7202,865 7201,614 "
            class="fil24" />
       </g>
       <g
@@ -7699,12 +7700,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1721-9-0"
-             points="7322,831 7338,738 7396,664 7443,676 "
+             points="7396,664 7443,676 7322,831 7338,738 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1723-9-4"
-             points="7309,911 7317,864 7460,681 7483,687 "
+             points="7460,681 7483,687 7309,911 7317,864 "
              class="fil37" />
         </g>
         <polygon
@@ -7715,19 +7716,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1727-3-6"
-           points="7334,942 7363,949 7392,957 7459,745 7384,726 "
+           points="7363,949 7392,957 7459,745 7384,726 7334,942 "
            class="fil38" />
         <g
            id="g1729-3-91">
           <polygon
              style="fill:#59cdff"
              id="polygon1731-9-3"
-             points="7362,821 7348,882 7438,810 7459,745 7457,745 "
+             points="7348,882 7438,810 7459,745 7457,745 7362,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1733-8-0"
-             points="7343,904 7336,934 7421,866 7431,833 "
+             points="7421,866 7431,833 7343,904 7336,934 "
              class="fil36" />
         </g>
         <polygon
@@ -7738,7 +7739,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1737-2-1"
-           points="7509,708 7459,745 7392,957 7421,964 "
+           points="7392,957 7421,964 7509,708 7459,745 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7748,7 +7749,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1741-92-0"
-           points="7426,662 7385,720 7356,677 7381,727 7346,891 7386,730 7428,737 7389,724 "
+           points="7428,737 7389,724 7426,662 7385,720 7356,677 7381,727 7346,891 7386,730 "
            class="fil24" />
       </g>
       <g
@@ -7763,12 +7764,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1749-98-5"
-             points="7235,834 7254,755 7307,696 7347,710 "
+             points="7307,696 7347,710 7235,834 7254,755 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1751-5-3"
-             points="7219,901 7228,862 7361,714 7381,721 "
+             points="7361,714 7381,721 7219,901 7228,862 "
              class="fil37" />
         </g>
         <polygon
@@ -7779,19 +7780,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1755-05-9"
-           points="7238,929 7262,937 7287,945 7356,769 7294,748 "
+           points="7262,937 7287,945 7356,769 7294,748 7238,929 "
            class="fil38" />
         <g
            id="g1757-7-4">
           <polygon
              style="fill:#59cdff"
              id="polygon1759-9-8"
-             points="7269,828 7253,879 7335,823 7356,769 7355,769 "
+             points="7253,879 7335,823 7356,769 7355,769 7269,828 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1761-0-2"
-             points="7248,897 7240,922 7317,870 7327,842 "
+             points="7317,870 7327,842 7248,897 7240,922 "
              class="fil36" />
         </g>
         <polygon
@@ -7802,7 +7803,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1765-6-6"
-           points="7402,741 7356,769 7287,945 7311,953 "
+           points="7287,945 7311,953 7402,741 7356,769 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7812,7 +7813,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1769-2-6"
-           points="7334,697 7295,743 7273,705 7291,749 7251,886 7296,752 7331,761 7298,747 "
+           points="7331,761 7298,747 7334,697 7295,743 7273,705 7291,749 7251,886 7296,752 "
            class="fil24" />
       </g>
       <g
@@ -7851,7 +7852,7 @@
     </g>
     <g
        transform="matrix(0.06075294,0,0,0.06075294,1854.5969,98.135318)"
-       style="display:inline;clip-rule:evenodd;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962724320-4-8">
       <g
          id="g1631-2-14">
@@ -7865,12 +7866,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1637-4-3"
-             points="7088,857 7031,777 7019,682 7062,656 "
+             points="7019,682 7062,656 7088,857 7031,777 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1639-37-40"
-             points="7136,925 7107,885 7077,647 7099,634 "
+             points="7077,647 7099,634 7136,925 7107,885 "
              class="fil37" />
         </g>
         <polygon
@@ -7881,19 +7882,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1643-8-4"
-           points="7177,929 7204,913 7230,897 7124,695 7055,735 "
+           points="7204,913 7230,897 7124,695 7055,735 7177,929 "
            class="fil38" />
         <g
            id="g1645-7-6">
           <polygon
              style="fill:#59cdff"
              id="polygon1647-97-5"
-             points="7109,821 7143,876 7156,757 7124,695 7123,695 "
+             points="7143,876 7156,757 7124,695 7123,695 7109,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1649-5-97"
-             points="7155,895 7173,922 7185,811 7168,779 "
+             points="7185,811 7168,779 7155,895 7173,922 "
              class="fil36" />
         </g>
         <polygon
@@ -7904,7 +7905,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1653-99-0"
-           points="7134,630 7124,695 7230,897 7257,882 "
+           points="7230,897 7257,882 7134,630 7124,695 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7914,7 +7915,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1657-4-37"
-           points="7039,658 7051,730 6999,720 7053,738 7148,883 7060,736 7096,711 7057,730 "
+           points="7096,711 7057,730 7039,658 7051,730 6999,720 7053,738 7148,883 7060,736 "
            class="fil24" />
       </g>
       <g
@@ -7929,12 +7930,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1665-46-2"
-             points="7102,833 7069,760 7007,713 6971,732 "
+             points="7007,713 6971,732 7102,833 7069,760 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1667-7-7"
-             points="7130,895 7113,859 6959,739 6941,749 "
+             points="6959,739 6941,749 7130,895 7113,859 "
              class="fil37" />
         </g>
         <polygon
@@ -7945,19 +7946,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1671-2-7"
-           points="7116,926 7093,938 7071,950 6973,792 7030,760 "
+           points="7093,938 7071,950 6973,792 7030,760 7116,926 "
            class="fil38" />
         <g
            id="g1673-1-0">
           <polygon
              style="fill:#59cdff"
              id="polygon1675-8-9"
-             points="7068,833 7092,880 7003,840 6973,792 6974,791 "
+             points="7092,880 7003,840 6973,792 6974,791 7068,833 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1677-00-0"
-             points="7100,896 7112,920 7029,882 7014,858 "
+             points="7029,882 7014,858 7100,896 7112,920 "
              class="fil36" />
         </g>
         <polygon
@@ -7968,7 +7969,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1681-4-9"
-           points="6924,772 6973,792 7071,950 7049,962 "
+           points="7071,950 7049,962 6924,772 6973,792 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -7978,7 +7979,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1685-6-71"
-           points="6982,717 7028,755 7042,715 7033,760 7095,886 7028,764 6996,779 7025,760 "
+           points="6996,779 7025,760 6982,717 7028,755 7042,715 7033,760 7095,886 7028,764 "
            class="fil24" />
       </g>
       <g
@@ -7993,12 +7994,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1693-7-0"
-             points="7146,787 7134,643 7190,515 7264,515 "
+             points="7190,515 7264,515 7146,787 7134,643 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1695-127-7"
-             points="7155,909 7150,837 7290,515 7327,515 "
+             points="7290,515 7327,515 7155,909 7150,837 "
              class="fil37" />
         </g>
         <polygon
@@ -8009,19 +8010,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1699-8-2"
-           points="7204,944 7249,944 7295,944 7313,610 7196,610 "
+           points="7249,944 7295,944 7313,610 7196,610 7204,944 "
            class="fil38" />
         <g
            id="g1701-8-9">
           <polygon
              style="fill:#59cdff"
              id="polygon1703-04-1"
-             points="7199,757 7202,852 7307,712 7313,610 7311,610 "
+             points="7202,852 7307,712 7313,610 7311,610 7199,757 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1705-04-09"
-             points="7202,885 7203,932 7302,801 7305,749 "
+             points="7302,801 7305,749 7202,885 7203,932 "
              class="fil36" />
         </g>
         <polygon
@@ -8032,7 +8033,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1709-9-4"
-           points="7373,536 7313,610 7295,944 7340,944 "
+           points="7295,944 7340,944 7373,536 7313,610 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8042,7 +8043,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1713-1-1"
-           points="7234,500 7195,600 7137,549 7191,612 7202,865 7201,614 7265,610 7203,604 "
+           points="7265,610 7203,604 7234,500 7195,600 7137,549 7191,612 7202,865 7201,614 "
            class="fil24" />
       </g>
       <g
@@ -8057,12 +8058,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1721-9-3"
-             points="7322,831 7338,738 7396,664 7443,676 "
+             points="7396,664 7443,676 7322,831 7338,738 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1723-9-6"
-             points="7309,911 7317,864 7460,681 7483,687 "
+             points="7460,681 7483,687 7309,911 7317,864 "
              class="fil37" />
         </g>
         <polygon
@@ -8073,19 +8074,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1727-3-2"
-           points="7334,942 7363,949 7392,957 7459,745 7384,726 "
+           points="7363,949 7392,957 7459,745 7384,726 7334,942 "
            class="fil38" />
         <g
            id="g1729-3-5">
           <polygon
              style="fill:#59cdff"
              id="polygon1731-9-37"
-             points="7362,821 7348,882 7438,810 7459,745 7457,745 "
+             points="7348,882 7438,810 7459,745 7457,745 7362,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1733-8-2"
-             points="7343,904 7336,934 7421,866 7431,833 "
+             points="7421,866 7431,833 7343,904 7336,934 "
              class="fil36" />
         </g>
         <polygon
@@ -8096,7 +8097,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1737-2-6"
-           points="7509,708 7459,745 7392,957 7421,964 "
+           points="7392,957 7421,964 7509,708 7459,745 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8106,7 +8107,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1741-92-7"
-           points="7426,662 7385,720 7356,677 7381,727 7346,891 7386,730 7428,737 7389,724 "
+           points="7428,737 7389,724 7426,662 7385,720 7356,677 7381,727 7346,891 7386,730 "
            class="fil24" />
       </g>
       <g
@@ -8121,12 +8122,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1749-98-9"
-             points="7235,834 7254,755 7307,696 7347,710 "
+             points="7307,696 7347,710 7235,834 7254,755 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1751-5-6"
-             points="7219,901 7228,862 7361,714 7381,721 "
+             points="7361,714 7381,721 7219,901 7228,862 "
              class="fil37" />
         </g>
         <polygon
@@ -8137,19 +8138,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1755-05-7"
-           points="7238,929 7262,937 7287,945 7356,769 7294,748 "
+           points="7262,937 7287,945 7356,769 7294,748 7238,929 "
            class="fil38" />
         <g
            id="g1757-7-74">
           <polygon
              style="fill:#59cdff"
              id="polygon1759-9-1"
-             points="7269,828 7253,879 7335,823 7356,769 7355,769 "
+             points="7253,879 7335,823 7356,769 7355,769 7269,828 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1761-0-5"
-             points="7248,897 7240,922 7317,870 7327,842 "
+             points="7317,870 7327,842 7248,897 7240,922 "
              class="fil36" />
         </g>
         <polygon
@@ -8160,7 +8161,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1765-6-2"
-           points="7402,741 7356,769 7287,945 7311,953 "
+           points="7287,945 7311,953 7402,741 7356,769 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8170,7 +8171,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1769-2-23"
-           points="7334,697 7295,743 7273,705 7291,749 7251,886 7296,752 7331,761 7298,747 "
+           points="7331,761 7298,747 7334,697 7295,743 7273,705 7291,749 7251,886 7296,752 "
            class="fil24" />
       </g>
       <g
@@ -8209,7 +8210,7 @@
     </g>
     <g
        transform="matrix(0.06075294,0,0,0.06075294,2081.4419,101.64323)"
-       style="display:inline;clip-rule:evenodd;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962724320-4-81">
       <g
          id="g1631-2-10">
@@ -8223,12 +8224,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1637-4-5"
-             points="7088,857 7031,777 7019,682 7062,656 "
+             points="7019,682 7062,656 7088,857 7031,777 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1639-37-1"
-             points="7136,925 7107,885 7077,647 7099,634 "
+             points="7077,647 7099,634 7136,925 7107,885 "
              class="fil37" />
         </g>
         <polygon
@@ -8239,19 +8240,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1643-8-0"
-           points="7177,929 7204,913 7230,897 7124,695 7055,735 "
+           points="7204,913 7230,897 7124,695 7055,735 7177,929 "
            class="fil38" />
         <g
            id="g1645-7-8">
           <polygon
              style="fill:#59cdff"
              id="polygon1647-97-9"
-             points="7109,821 7143,876 7156,757 7124,695 7123,695 "
+             points="7143,876 7156,757 7124,695 7123,695 7109,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1649-5-8"
-             points="7155,895 7173,922 7185,811 7168,779 "
+             points="7185,811 7168,779 7155,895 7173,922 "
              class="fil36" />
         </g>
         <polygon
@@ -8262,7 +8263,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1653-99-6"
-           points="7134,630 7124,695 7230,897 7257,882 "
+           points="7230,897 7257,882 7134,630 7124,695 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8272,7 +8273,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1657-4-2"
-           points="7039,658 7051,730 6999,720 7053,738 7148,883 7060,736 7096,711 7057,730 "
+           points="7096,711 7057,730 7039,658 7051,730 6999,720 7053,738 7148,883 7060,736 "
            class="fil24" />
       </g>
       <g
@@ -8287,12 +8288,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1665-46-714"
-             points="7102,833 7069,760 7007,713 6971,732 "
+             points="7007,713 6971,732 7102,833 7069,760 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1667-7-6"
-             points="7130,895 7113,859 6959,739 6941,749 "
+             points="6959,739 6941,749 7130,895 7113,859 "
              class="fil37" />
         </g>
         <polygon
@@ -8303,19 +8304,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1671-2-48"
-           points="7116,926 7093,938 7071,950 6973,792 7030,760 "
+           points="7093,938 7071,950 6973,792 7030,760 7116,926 "
            class="fil38" />
         <g
            id="g1673-1-77">
           <polygon
              style="fill:#59cdff"
              id="polygon1675-8-8"
-             points="7068,833 7092,880 7003,840 6973,792 6974,791 "
+             points="7092,880 7003,840 6973,792 6974,791 7068,833 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1677-00-9"
-             points="7100,896 7112,920 7029,882 7014,858 "
+             points="7029,882 7014,858 7100,896 7112,920 "
              class="fil36" />
         </g>
         <polygon
@@ -8326,7 +8327,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1681-4-96"
-           points="6924,772 6973,792 7071,950 7049,962 "
+           points="7071,950 7049,962 6924,772 6973,792 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8336,7 +8337,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1685-6-9"
-           points="6982,717 7028,755 7042,715 7033,760 7095,886 7028,764 6996,779 7025,760 "
+           points="6996,779 7025,760 6982,717 7028,755 7042,715 7033,760 7095,886 7028,764 "
            class="fil24" />
       </g>
       <g
@@ -8351,12 +8352,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1693-7-6"
-             points="7146,787 7134,643 7190,515 7264,515 "
+             points="7190,515 7264,515 7146,787 7134,643 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1695-127-08"
-             points="7155,909 7150,837 7290,515 7327,515 "
+             points="7290,515 7327,515 7155,909 7150,837 "
              class="fil37" />
         </g>
         <polygon
@@ -8367,19 +8368,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1699-8-1"
-           points="7204,944 7249,944 7295,944 7313,610 7196,610 "
+           points="7249,944 7295,944 7313,610 7196,610 7204,944 "
            class="fil38" />
         <g
            id="g1701-8-20">
           <polygon
              style="fill:#59cdff"
              id="polygon1703-04-0"
-             points="7199,757 7202,852 7307,712 7313,610 7311,610 "
+             points="7202,852 7307,712 7313,610 7311,610 7199,757 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1705-04-15"
-             points="7202,885 7203,932 7302,801 7305,749 "
+             points="7302,801 7305,749 7202,885 7203,932 "
              class="fil36" />
         </g>
         <polygon
@@ -8390,7 +8391,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1709-9-3"
-           points="7373,536 7313,610 7295,944 7340,944 "
+           points="7295,944 7340,944 7373,536 7313,610 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8400,7 +8401,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1713-1-8"
-           points="7234,500 7195,600 7137,549 7191,612 7202,865 7201,614 7265,610 7203,604 "
+           points="7265,610 7203,604 7234,500 7195,600 7137,549 7191,612 7202,865 7201,614 "
            class="fil24" />
       </g>
       <g
@@ -8415,12 +8416,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1721-9-2"
-             points="7322,831 7338,738 7396,664 7443,676 "
+             points="7396,664 7443,676 7322,831 7338,738 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1723-9-43"
-             points="7309,911 7317,864 7460,681 7483,687 "
+             points="7460,681 7483,687 7309,911 7317,864 "
              class="fil37" />
         </g>
         <polygon
@@ -8431,19 +8432,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1727-3-7"
-           points="7334,942 7363,949 7392,957 7459,745 7384,726 "
+           points="7363,949 7392,957 7459,745 7384,726 7334,942 "
            class="fil38" />
         <g
            id="g1729-3-3">
           <polygon
              style="fill:#59cdff"
              id="polygon1731-9-1"
-             points="7362,821 7348,882 7438,810 7459,745 7457,745 "
+             points="7348,882 7438,810 7459,745 7457,745 7362,821 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1733-8-1"
-             points="7343,904 7336,934 7421,866 7431,833 "
+             points="7421,866 7431,833 7343,904 7336,934 "
              class="fil36" />
         </g>
         <polygon
@@ -8454,7 +8455,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1737-2-13"
-           points="7509,708 7459,745 7392,957 7421,964 "
+           points="7392,957 7421,964 7509,708 7459,745 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8464,7 +8465,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1741-92-5"
-           points="7426,662 7385,720 7356,677 7381,727 7346,891 7386,730 7428,737 7389,724 "
+           points="7428,737 7389,724 7426,662 7385,720 7356,677 7381,727 7346,891 7386,730 "
            class="fil24" />
       </g>
       <g
@@ -8479,12 +8480,12 @@
           <polygon
              style="fill:#78d7ff"
              id="polygon1749-98-3"
-             points="7235,834 7254,755 7307,696 7347,710 "
+             points="7307,696 7347,710 7235,834 7254,755 "
              class="fil37" />
           <polygon
              style="fill:#78d7ff"
              id="polygon1751-5-5"
-             points="7219,901 7228,862 7361,714 7381,721 "
+             points="7361,714 7381,721 7219,901 7228,862 "
              class="fil37" />
         </g>
         <polygon
@@ -8495,19 +8496,19 @@
         <polygon
            style="fill:#37c3ff"
            id="polygon1755-05-6"
-           points="7238,929 7262,937 7287,945 7356,769 7294,748 "
+           points="7262,937 7287,945 7356,769 7294,748 7238,929 "
            class="fil38" />
         <g
            id="g1757-7-1">
           <polygon
              style="fill:#59cdff"
              id="polygon1759-9-0"
-             points="7269,828 7253,879 7335,823 7356,769 7355,769 "
+             points="7253,879 7335,823 7356,769 7355,769 7269,828 "
              class="fil36" />
           <polygon
              style="fill:#59cdff"
              id="polygon1761-0-24"
-             points="7248,897 7240,922 7317,870 7327,842 "
+             points="7317,870 7327,842 7248,897 7240,922 "
              class="fil36" />
         </g>
         <polygon
@@ -8518,7 +8519,7 @@
         <polygon
            style="fill:#27beff"
            id="polygon1765-6-64"
-           points="7402,741 7356,769 7287,945 7311,953 "
+           points="7287,945 7311,953 7402,741 7356,769 "
            class="fil39" />
         <polygon
            style="fill:#78d7ff"
@@ -8528,7 +8529,7 @@
         <polygon
            style="fill:#ffffff"
            id="polygon1769-2-4"
-           points="7334,697 7295,743 7273,705 7291,749 7251,886 7296,752 7331,761 7298,747 "
+           points="7331,761 7298,747 7334,697 7295,743 7273,705 7291,749 7251,886 7296,752 "
            class="fil24" />
       </g>
       <g
@@ -8579,17 +8580,17 @@
              id="g1353-3">
             <polygon
                class="fil6"
-               points="6439,1708 6439,1136 6527,1136 6527,1708 "
+               points="6527,1136 6527,1708 6439,1708 6439,1136 "
                id="polygon1355-5"
                style="fill:#ae703e" />
             <polygon
                class="fil13"
-               points="6439,1708 6439,1136 6456,1136 6456,1708 "
+               points="6456,1136 6456,1708 6439,1708 6439,1136 "
                id="polygon1357-9"
                style="fill:#c07e4c" />
             <polygon
                class="fil9"
-               points="6509,1708 6509,1136 6527,1136 6527,1708 "
+               points="6527,1136 6527,1708 6509,1708 6509,1136 "
                id="polygon1359-3"
                style="fill:#945e36" />
             <polygon
@@ -8599,33 +8600,33 @@
                style="fill:#945e36" />
             <polygon
                class="fil6"
-               points="6439,1708 6456,1708 6456,1520 6444,1437 6439,1453 "
+               points="6456,1708 6456,1520 6444,1437 6439,1453 6439,1708 "
                id="polygon1363-4"
                style="fill:#ae703e" />
             <polygon
                class="fil8"
-               points="6519,1517 6509,1458 6509,1708 6527,1708 6527,1503 "
+               points="6509,1458 6509,1708 6527,1708 6527,1503 6519,1517 "
                id="polygon1365-9"
                style="fill:#7a4d2e" />
             <polygon
                class="fil9"
-               points="6439,1708 6456,1708 6456,1612 6455,1644 6439,1598 "
+               points="6456,1708 6456,1612 6455,1644 6439,1598 6439,1708 "
                id="polygon1367-8"
                style="fill:#945e36" />
             <polygon
                class="fil8"
-               points="6497,1559 6485,1642 6459,1545 6456,1612 6456,1708 6509,1708 6509,1594 "
+               points="6509,1594 6497,1559 6485,1642 6459,1545 6456,1612 6456,1708 6509,1708 "
                id="polygon1369-6"
                style="fill:#7a4d2e" />
             <polygon
                class="fil10"
-               points="6523,1635 6509,1594 6509,1708 6527,1708 6527,1586 "
+               points="6509,1594 6509,1708 6527,1708 6527,1586 6523,1635 "
                id="polygon1371-7"
                style="fill:#633e25" />
           </g>
           <polygon
              class="fil6 str0"
-             points="6214,1136 6752,1136 6752,1378 6683,1383 6752,1396 6752,1517 6214,1517 6214,1447 6268,1434 6214,1430 6214,1239 6301,1233 6214,1217 "
+             points="6214,1517 6214,1447 6268,1434 6214,1430 6214,1239 6301,1233 6214,1217 6214,1136 6752,1136 6752,1378 6683,1383 6752,1396 6752,1517 "
              id="polygon1373-0"
              style="fill:#ae703e;stroke:#945e36;stroke-width:15.6189003" />
           <polygon
@@ -8702,7 +8703,7 @@
     </g>
     <g
        transform="matrix(0.11267122,0,0,0.11267122,1424.6059,-11.047244)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="g1806-30-0">
       <path
          class="fil24"
@@ -8737,7 +8738,7 @@
     </g>
     <g
        transform="matrix(-0.09140545,0,0,0.09140545,2702.3867,-1.0210689)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="g1806-30-6-5">
       <path
          class="fil24"
@@ -8772,7 +8773,7 @@
     </g>
     <g
        transform="matrix(-0.16832344,0,0,0.16832344,2465.3251,-163.9667)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-8-9">
       <g
          id="g1784-3-9">
@@ -9356,7 +9357,7 @@
     </g>
     <g
        transform="matrix(0.13673169,0,0,0.13673169,-1029.8027,-75.764644)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-1">
       <g
          id="g1784-9">
@@ -9502,7 +9503,7 @@
     </g>
     <g
        transform="matrix(0.08474537,0,0,0.08474537,-651.7881,21.242731)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-1-3">
       <g
          id="g1784-9-2">
@@ -9648,7 +9649,7 @@
     </g>
     <g
        transform="matrix(0.05942039,0,0,0.05942039,879.12707,48.1101)"
-       style="display:inline;clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_962734400-4-9-0-0">
       <g
          id="g1784-35-2-8-4">
@@ -12140,17 +12141,17 @@
           <polygon
              style="fill:#ae703e"
              id="polygon1400"
-             points="7132,1708 7132,1136 7220,1136 7220,1708 "
+             points="7220,1136 7220,1708 7132,1708 7132,1136 "
              class="fil6" />
           <polygon
              style="fill:#c07e4c"
              id="polygon1402"
-             points="7132,1708 7132,1136 7149,1136 7149,1708 "
+             points="7149,1136 7149,1708 7132,1708 7132,1136 "
              class="fil13" />
           <polygon
              style="fill:#945e36"
              id="polygon1404"
-             points="7202,1708 7202,1136 7220,1136 7220,1708 "
+             points="7220,1136 7220,1708 7202,1708 7202,1136 "
              class="fil9" />
           <polygon
              style="fill:#945e36"
@@ -12160,33 +12161,33 @@
           <polygon
              style="fill:#ae703e"
              id="polygon1408"
-             points="7132,1708 7149,1708 7149,1520 7137,1437 7132,1453 "
+             points="7149,1708 7149,1520 7137,1437 7132,1453 7132,1708 "
              class="fil6" />
           <polygon
              style="fill:#7a4d2e"
              id="polygon1410"
-             points="7212,1517 7202,1458 7202,1708 7220,1708 7220,1503 "
+             points="7202,1458 7202,1708 7220,1708 7220,1503 7212,1517 "
              class="fil8" />
           <polygon
              style="fill:#945e36"
              id="polygon1412"
-             points="7132,1708 7149,1708 7149,1612 7148,1644 7132,1598 "
+             points="7149,1708 7149,1612 7148,1644 7132,1598 7132,1708 "
              class="fil9" />
           <polygon
              style="fill:#7a4d2e"
              id="polygon1414"
-             points="7202,1708 7202,1594 7190,1559 7178,1642 7152,1545 7149,1612 7149,1708 "
+             points="7149,1708 7202,1708 7202,1594 7190,1559 7178,1642 7152,1545 7149,1612 "
              class="fil8" />
           <polygon
              style="fill:#633e25"
              id="polygon1416"
-             points="7216,1635 7202,1594 7202,1708 7220,1708 7220,1586 "
+             points="7202,1594 7202,1708 7220,1708 7220,1586 7216,1635 "
              class="fil10" />
         </g>
         <polygon
            style="fill:#ae703e;stroke:#945e36;stroke-width:15.6189003"
            id="polygon1418"
-           points="7054,1394 7019,1392 7019,1302 7075,1299 7019,1292 7019,1254 7332,1254 7332,1218 7440,1280 7445,1283 7380,1298 7468,1296 7549,1343 7465,1392 7432,1391 7449,1401 7440,1406 7332,1469 7332,1433 7019,1433 7019,1400 "
+           points="7332,1254 7332,1218 7440,1280 7445,1283 7380,1298 7468,1296 7549,1343 7465,1392 7432,1391 7449,1401 7440,1406 7332,1469 7332,1433 7019,1433 7019,1400 7054,1394 7019,1392 7019,1302 7075,1299 7019,1292 7019,1254 "
            class="fil6 str0" />
         <polygon
            style="fill:#c07e4c"
@@ -12328,7 +12329,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 "
+           points="5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 "
            id="polygon4783-4"
            style="fill:#b4b3b8" />
         <path
@@ -12395,7 +12396,7 @@
            style="fill:#b4b3b8" />
         <polygon
            class="fil27"
-           points="5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 5719,1449 5609,1251 5659,1401 "
+           points="5719,1449 5609,1251 5659,1401 5656,1623 5504,1657 5603,1657 5736,1657 5908,1657 5786,1600 "
            id="polygon4783-2"
            style="fill:#b4b3b8" />
         <path
@@ -13218,27 +13219,27 @@
           <polygon
              style="fill:#c4a141"
              id="polygon5787"
-             points="7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 "
+             points="7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 "
              class="fil39" />
           <polygon
              style="fill:#fce18b"
              id="polygon5789"
-             points="7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 "
+             points="7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 7417,4017 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5791"
-             points="7515,4050 7504,4038 7506,4059 7497,4070 7483,4072 7516,4075 7517,4070 "
+             points="7483,4072 7516,4075 7517,4070 7515,4050 7504,4038 7506,4059 7497,4070 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5793"
-             points="7484,4046 7485,4061 7483,4072 7456,4069 7474,4060 7475,4044 7474,4032 "
+             points="7474,4060 7475,4044 7474,4032 7484,4046 7485,4061 7483,4072 7456,4069 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5795"
-             points="7368,4050 7362,4056 7358,4054 7367,4035 7371,4022 7372,4038 "
+             points="7371,4022 7372,4038 7368,4050 7362,4056 7358,4054 7367,4035 "
              class="fil38" />
           <path
              style="fill:#fce18b"
@@ -13249,17 +13250,17 @@
           <polygon
              style="fill:#fce18b"
              id="polygon5799"
-             points="7417,4025 7426,4030 7430,4042 7429,4055 7428,4066 7411,4064 7420,4050 "
+             points="7428,4066 7411,4064 7420,4050 7417,4025 7426,4030 7430,4042 7429,4055 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5801"
-             points="7450,4061 7455,4042 7440,4027 7445,4044 7437,4067 7447,4068 "
+             points="7437,4067 7447,4068 7450,4061 7455,4042 7440,4027 7445,4044 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5803"
-             points="7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 "
+             points="7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 7533,4041 7521,4046 7505,4032 "
              class="fil38" />
           <polygon
              style="fill:#fffbef"
@@ -13545,27 +13546,27 @@
           <polygon
              style="fill:#c4a141"
              id="polygon5911"
-             points="7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 "
+             points="7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 "
              class="fil39" />
           <polygon
              style="fill:#fce18b"
              id="polygon5913"
-             points="7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 "
+             points="7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5915"
-             points="7504,4038 7506,4059 7497,4070 7483,4072 7516,4075 7517,4070 7515,4050 "
+             points="7516,4075 7517,4070 7515,4050 7504,4038 7506,4059 7497,4070 7483,4072 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5917"
-             points="7485,4061 7483,4072 7456,4069 7474,4060 7475,4044 7474,4032 7484,4046 "
+             points="7475,4044 7474,4032 7484,4046 7485,4061 7483,4072 7456,4069 7474,4060 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5919"
-             points="7358,4054 7367,4035 7371,4022 7372,4038 7368,4050 7362,4056 "
+             points="7368,4050 7362,4056 7358,4054 7367,4035 7371,4022 7372,4038 "
              class="fil38" />
           <path
              style="fill:#fce18b"
@@ -13576,17 +13577,17 @@
           <polygon
              style="fill:#fce18b"
              id="polygon5923"
-             points="7426,4030 7430,4042 7429,4055 7428,4066 7411,4064 7420,4050 7417,4025 "
+             points="7411,4064 7420,4050 7417,4025 7426,4030 7430,4042 7429,4055 7428,4066 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5925"
-             points="7440,4027 7445,4044 7437,4067 7447,4068 7450,4061 7455,4042 "
+             points="7450,4061 7455,4042 7440,4027 7445,4044 7437,4067 7447,4068 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon5927"
-             points="7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 "
+             points="7534,4001 7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 "
              class="fil38" />
           <polygon
              style="fill:#fffbef"
@@ -13872,27 +13873,27 @@
           <polygon
              style="fill:#c4a141"
              id="polygon6035"
-             points="7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 "
+             points="7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 "
              class="fil39" />
           <polygon
              style="fill:#fce18b"
              id="polygon6037"
-             points="7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 "
+             points="7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon6039"
-             points="7517,4070 7515,4050 7504,4038 7506,4059 7497,4070 7483,4072 7516,4075 "
+             points="7497,4070 7483,4072 7516,4075 7517,4070 7515,4050 7504,4038 7506,4059 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon6041"
-             points="7474,4032 7484,4046 7485,4061 7483,4072 7456,4069 7474,4060 7475,4044 "
+             points="7456,4069 7474,4060 7475,4044 7474,4032 7484,4046 7485,4061 7483,4072 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon6043"
-             points="7362,4056 7358,4054 7367,4035 7371,4022 7372,4038 7368,4050 "
+             points="7372,4038 7368,4050 7362,4056 7358,4054 7367,4035 7371,4022 "
              class="fil38" />
           <path
              style="fill:#fce18b"
@@ -13903,17 +13904,17 @@
           <polygon
              style="fill:#fce18b"
              id="polygon6047"
-             points="7420,4050 7417,4025 7426,4030 7430,4042 7429,4055 7428,4066 7411,4064 "
+             points="7429,4055 7428,4066 7411,4064 7420,4050 7417,4025 7426,4030 7430,4042 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon6049"
-             points="7455,4042 7440,4027 7445,4044 7437,4067 7447,4068 7450,4061 "
+             points="7447,4068 7450,4061 7455,4042 7440,4027 7445,4044 7437,4067 "
              class="fil38" />
           <polygon
              style="fill:#fce18b"
              id="polygon6051"
-             points="7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 "
+             points="7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 7533,4041 7521,4046 7505,4032 "
              class="fil38" />
           <polygon
              style="fill:#fffbef"
@@ -14933,27 +14934,27 @@
         <polygon
            style="fill:#c4a141"
            id="polygon6947"
-           points="7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 "
+           points="7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 "
            class="fil39" />
         <polygon
            style="fill:#fce18b"
            id="polygon6949"
-           points="7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 "
+           points="7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon6951"
-           points="7506,4059 7497,4070 7483,4072 7516,4075 7517,4070 7515,4050 7504,4038 "
+           points="7517,4070 7515,4050 7504,4038 7506,4059 7497,4070 7483,4072 7516,4075 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon6953"
-           points="7483,4072 7456,4069 7474,4060 7475,4044 7474,4032 7484,4046 7485,4061 "
+           points="7474,4032 7484,4046 7485,4061 7483,4072 7456,4069 7474,4060 7475,4044 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon6955"
-           points="7368,4050 7362,4056 7358,4054 7367,4035 7371,4022 7372,4038 "
+           points="7371,4022 7372,4038 7368,4050 7362,4056 7358,4054 7367,4035 "
            class="fil38" />
         <path
            style="fill:#fce18b"
@@ -14964,17 +14965,17 @@
         <polygon
            style="fill:#fce18b"
            id="polygon6959"
-           points="7430,4042 7429,4055 7428,4066 7411,4064 7420,4050 7417,4025 7426,4030 "
+           points="7420,4050 7417,4025 7426,4030 7430,4042 7429,4055 7428,4066 7411,4064 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon6961"
-           points="7450,4061 7455,4042 7440,4027 7445,4044 7437,4067 7447,4068 "
+           points="7437,4067 7447,4068 7450,4061 7455,4042 7440,4027 7445,4044 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon6963"
-           points="7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 "
+           points="7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 "
            class="fil38" />
         <polygon
            style="fill:#fffbef"
@@ -15260,27 +15261,27 @@
         <polygon
            style="fill:#c4a141"
            id="polygon7071"
-           points="7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 "
+           points="7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 "
            class="fil39" />
         <polygon
            style="fill:#fce18b"
            id="polygon7073"
-           points="7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 "
+           points="7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7075"
-           points="7497,4070 7483,4072 7516,4075 7517,4070 7515,4050 7504,4038 7506,4059 "
+           points="7515,4050 7504,4038 7506,4059 7497,4070 7483,4072 7516,4075 7517,4070 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7077"
-           points="7456,4069 7474,4060 7475,4044 7474,4032 7484,4046 7485,4061 7483,4072 "
+           points="7484,4046 7485,4061 7483,4072 7456,4069 7474,4060 7475,4044 7474,4032 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7079"
-           points="7358,4054 7367,4035 7371,4022 7372,4038 7368,4050 7362,4056 "
+           points="7368,4050 7362,4056 7358,4054 7367,4035 7371,4022 7372,4038 "
            class="fil38" />
         <path
            style="fill:#fce18b"
@@ -15291,17 +15292,17 @@
         <polygon
            style="fill:#fce18b"
            id="polygon7083"
-           points="7429,4055 7428,4066 7411,4064 7420,4050 7417,4025 7426,4030 7430,4042 "
+           points="7417,4025 7426,4030 7430,4042 7429,4055 7428,4066 7411,4064 7420,4050 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7085"
-           points="7440,4027 7445,4044 7437,4067 7447,4068 7450,4061 7455,4042 "
+           points="7450,4061 7455,4042 7440,4027 7445,4044 7437,4067 7447,4068 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7087"
-           points="7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 "
+           points="7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 "
            class="fil38" />
         <polygon
            style="fill:#fffbef"
@@ -15587,27 +15588,27 @@
         <polygon
            style="fill:#c4a141"
            id="polygon7196"
-           points="7484,4046 7474,4032 7455,4042 7474,4021 7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 "
+           points="7490,4038 7505,4020 7521,4041 7540,4026 7553,4048 7551,4064 7547,4076 7537,4045 7523,4051 7517,4070 7515,4050 7504,4038 7490,4047 7485,4061 7484,4046 7474,4032 7455,4042 7474,4021 "
            class="fil39" />
         <polygon
            style="fill:#fce18b"
            id="polygon7198"
-           points="7417,4025 7426,4030 7417,4017 7401,4021 7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 "
+           points="7392,4012 7377,4016 7366,4005 7365,4012 7371,4022 7372,4038 7380,4024 7390,4022 7397,4029 7397,4042 7404,4030 7417,4025 7426,4030 7417,4017 7401,4021 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7200"
-           points="7504,4038 7506,4059 7497,4070 7483,4072 7516,4075 7517,4070 7515,4050 "
+           points="7516,4075 7517,4070 7515,4050 7504,4038 7506,4059 7497,4070 7483,4072 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7202"
-           points="7485,4061 7483,4072 7456,4069 7474,4060 7475,4044 7474,4032 7484,4046 "
+           points="7475,4044 7474,4032 7484,4046 7485,4061 7483,4072 7456,4069 7474,4060 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7204"
-           points="7362,4056 7358,4054 7367,4035 7371,4022 7372,4038 7368,4050 "
+           points="7372,4038 7368,4050 7362,4056 7358,4054 7367,4035 7371,4022 "
            class="fil38" />
         <path
            style="fill:#fce18b"
@@ -15618,17 +15619,17 @@
         <polygon
            style="fill:#fce18b"
            id="polygon7208"
-           points="7426,4030 7430,4042 7429,4055 7428,4066 7411,4064 7420,4050 7417,4025 "
+           points="7411,4064 7420,4050 7417,4025 7426,4030 7430,4042 7429,4055 7428,4066 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7210"
-           points="7455,4042 7440,4027 7445,4044 7437,4067 7447,4068 7450,4061 "
+           points="7447,4068 7450,4061 7455,4042 7440,4027 7445,4044 7437,4067 "
            class="fil38" />
         <polygon
            style="fill:#fce18b"
            id="polygon7212"
-           points="7533,4041 7521,4046 7505,4032 7488,4043 7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 "
+           points="7475,4028 7455,4042 7450,4037 7472,4013 7489,4023 7509,3998 7519,4026 7534,4001 7549,4027 7533,4041 7521,4046 7505,4032 7488,4043 "
            class="fil38" />
         <polygon
            style="fill:#fffbef"
