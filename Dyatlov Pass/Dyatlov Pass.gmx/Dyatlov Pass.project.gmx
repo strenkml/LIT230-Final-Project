@@ -7,17 +7,18 @@
   <sounds name="sound">
     <sound>sound\soundTitle</sound>
     <sound>sound\soundScare</sound>
+    <sound>sound\soundWhisper</sound>
   </sounds>
   <sprites name="sprites">
-    <sprites name="Instructions">
-      <sprite>sprites\spriteInstrLeft</sprite>
-      <sprite>sprites\spriteInstrRight</sprite>
-      <sprite>sprites\spriteInstrE</sprite>
-    </sprites>
+    <sprite>sprites\spriteInstructions</sprite>
     <sprites name="Notes">
-      <sprite>sprites\spriteJoinNote</sprite>
+      <sprite>sprites\spriteChpt1Note</sprite>
+      <sprite>sprites\spriteChpt2Note</sprite>
+      <sprite>sprites\spriteChpt3Note</sprite>
+      <sprite>sprites\spriteChpt4Note</sprite>
     </sprites>
     <sprite>sprites\spriteGroundNote</sprite>
+    <sprite>sprites\spriteTackNote</sprite>
     <sprite>sprites\mainCharR</sprite>
     <sprite>sprites\mainCharL</sprite>
     <sprite>sprites\monster</sprite>
@@ -58,7 +59,6 @@
   </fonts>
   <objects name="objects">
     <object>objects\objectFade</object>
-    <object>objects\objectGroundNote</object>
     <object>objects\objectChar</object>
     <object>objects\objectCamera</object>
     <objects name="Title">
@@ -68,21 +68,26 @@
     </objects>
     <objects name="Chapter 1">
       <object>objects\objectChpt1Detect</object>
-      <object>objects\objectInstrLeft</object>
-      <object>objects\objectInstrRight</object>
-      <object>objects\objectInstrE</object>
+      <object>objects\objectInstructions</object>
+      <object>objects\objectChpt1Note</object>
+      <object>objects\objectGroundChpt1Note</object>
     </objects>
     <objects name="Chapter 2">
       <object>objects\objectChpt2Detect</object>
-      <object>objects\objectJoinNote</object>
+      <object>objects\objectGroundChpt2Note</object>
+      <object>objects\objectChpt2Note</object>
     </objects>
     <objects name="Chapter 3">
       <object>objects\objectChpt3Detect</object>
+      <object>objects\objectGroundChpt3Note</object>
+      <object>objects\objectChpt3Note</object>
     </objects>
     <objects name="Chapter 4">
       <object>objects\objectChpt4Detect</object>
       <object>objects\objectMonster</object>
       <object>objects\objectBarrier</object>
+      <object>objects\objectGroundChpt4Note</object>
+      <object>objects\objectChpt4Note</object>
     </objects>
     <objects name="End Game">
       <object>objects\objectEndGame</object>
@@ -91,7 +96,6 @@
       <object>objects\objectEndDetect</object>
     </objects>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\roomTitle</room>
     <room>rooms\roomChpt1</room>

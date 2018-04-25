@@ -26,8 +26,57 @@
           <argument>
             <kind>1</kind>
             <string>moveSpeed = 3;
+notesFound = false;
+foundMonster = false;
 
+image_speed = 0;
 </string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="2" enumb="2">
+      <action>
+        <libid>1</libid>
+        <id>212</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_end_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>soundWhisper</sound>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>211</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>soundTitle</sound>
+          </argument>
+          <argument>
+            <kind>3</kind>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -215,19 +264,130 @@
             <kind>1</kind>
             <string>background_x[2] = view_xview[0] + view_wview[0] / 2 - 132.5;
 
-/*if (room == roomChpt4 &amp;&amp; shaken == false) {
-    with objectCamera{
-        path_start(chpt4Shake, 100, path_action_continue, false);
-    }
-    shaken = true;
-    alarm[0] = 120;
-}*/
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="objectGroundChpt4Note">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if (keyboard_check(ord('E'))) {
+    instance_create(view_xview[0] + view_wview[0] / 2, 0, objectChpt4Note);
+    notesFound = true;
+    audio_stop_sound(soundWhisper);
+    audio_play_sound(soundWhisper,100,false);
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="objectGroundChpt3Note">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if (keyboard_check(ord('E'))) {
+    instance_create(view_xview[0] + view_wview[0] / 2, 0, objectChpt3Note);
+    notesFound = true;
+    audio_stop_sound(soundWhisper);
+    audio_play_sound(soundWhisper,100,false);
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="objectGroundChpt2Note">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if (keyboard_check(ord('E'))) {
+    instance_create(view_xview[0] + view_wview[0] / 2, 0, objectChpt2Note);
+    notesFound = true;
+    audio_stop_sound(soundWhisper);
+    audio_play_sound(soundWhisper,100,false);
+}
 </string>
           </argument>
         </arguments>
       </action>
     </event>
     <event eventtype="4" ename="objectBarrier">
+      <action>
+        <libid>1</libid>
+        <id>408</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>-1</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_if</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>notesFound</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>422</id>
+        <kind>1</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
       <action>
         <libid>1</libid>
         <id>101</id>
@@ -249,6 +409,26 @@
           <argument>
             <kind>0</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>212</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_end_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>soundWhisper</sound>
           </argument>
         </arguments>
       </action>
@@ -336,8 +516,22 @@ foundMonster = true;
           </argument>
         </arguments>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>424</id>
+        <kind>2</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
     </event>
-    <event eventtype="4" ename="objectGroundNote">
+    <event eventtype="4" ename="objectGroundChpt1Note">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -355,7 +549,9 @@ foundMonster = true;
           <argument>
             <kind>1</kind>
             <string>if (keyboard_check(ord('E'))) {
-    instance_create(view_xview[0] + view_wview[0] / 2, 0, objectJoinNote);
+    instance_create(view_xview[0] + view_wview[0] / 2, 0, objectChpt1Note);
+    notesFound = true;
+    audio_stop_sound(soundWhisper);
 }
 </string>
           </argument>
@@ -435,6 +631,29 @@ image_index = 0;
           </argument>
         </arguments>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if (notesFound &amp;&amp; x &gt; 1920) {
+    room_goto_next();
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
     </event>
     <event eventtype="9" enumb="39">
       <action>
@@ -453,7 +672,7 @@ image_index = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (!instance_exists(objectJoinNote) &amp;&amp; !foundMonster) {
+            <string>if ((!instance_exists(objectChpt1Note)) &amp;&amp; (!instance_exists(objectChpt2Note)) &amp;&amp; (!instance_exists(objectChpt3Note)) &amp;&amp; (!instance_exists(objectChpt4Note)) &amp;&amp; !foundMonster) {
     sprite_index = mainCharR;
     image_speed = .3;
     direction = 0;
@@ -481,7 +700,7 @@ image_index = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if ((!instance_exists(objectJoinNote)) &amp;&amp; !foundMonster) {
+            <string>if ((!instance_exists(objectChpt1Note)) &amp;&amp; (!instance_exists(objectChpt2Note)) &amp;&amp; (!instance_exists(objectChpt3Note)) &amp;&amp; (!instance_exists(objectChpt4Note)) &amp;&amp; !foundMonster) {
     sprite_index = mainCharL;
     image_speed = .3;
     speed = moveSpeed;

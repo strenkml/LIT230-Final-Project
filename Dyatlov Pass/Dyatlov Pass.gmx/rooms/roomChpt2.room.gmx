@@ -3,7 +3,7 @@
   <caption></caption>
   <width>3840</width>
   <height>720</height>
-  <vsnap>1</vsnap>
+  <vsnap>32</vsnap>
   <hsnap>32</hsnap>
   <isometric>0</isometric>
   <speed>60</speed>
@@ -52,8 +52,9 @@
   </views>
   <instances>
     <instance objName="objectChpt2Detect" x="0" y="0" name="inst_EFA0EF52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objectChar" x="64" y="654" name="inst_1B301DCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objectGroundNote" x="832" y="615" name="inst_6318AAE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objectChar" x="64" y="640" name="inst_1B301DCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objectGroundChpt1Note" x="832" y="615" name="inst_6318AAE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objectGroundChpt2Note" x="2368" y="608" name="inst_10CE27DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
