@@ -30,6 +30,18 @@ notesFound = false;
 foundMonster = false;
 
 image_speed = 0;
+
+if (keyboard_check(vk_left)) { //left
+    sprite_index = mainCharL;
+    image_speed = .3;
+    speed = moveSpeed;
+    direction = 180;
+} else if (keyboard_check(vk_right)){ //right
+    sprite_index = mainCharR;
+    image_speed = .3;
+    speed = moveSpeed;
+    direction = 0;
+}
 </string>
           </argument>
         </arguments>
