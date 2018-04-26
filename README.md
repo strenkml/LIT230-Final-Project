@@ -17,8 +17,6 @@ Created by:  Michael Farden, Robin Kuhns, Courtney Maki, and Matthew Strenk
 Contains all of the images and sounds that were used for objects, characters, and backgrounds.  Some of the images were found on the free game asset website: [GameArt2D](https://www.gameart2d.com/freebies.html).
 ### Dylatov Pass
 Contains the GameMaker Studio 1.4 files for the game.
-### Windows Installer
-Contains an .exe to install the game to a Windows computer.
 ### html5game
 Contains the files for hosting the game on the project page found [here](http://matthewstrenk.com/LIT230-Final-Project/).
 ### favicon.ico
